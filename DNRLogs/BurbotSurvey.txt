@@ -1,0 +1,1395 @@
+
+2017-11-07 20:36:20.633
+INFORMATION:	Getting event firing web service wrapper
+
+2017-11-07 20:36:24.717
+INFORMATION:	
+ Survey Date = '2016-09-28',  County Name = 'Aitkin', Lake Name = 'Big Sandy' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '8', Total = '1' 
+
+
+2017-11-07 20:36:32.402
+INFORMATION:	
+ Survey Date = '1997-07-21',  County Name = 'Aitkin', Lake Name = 'Minnewawa' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '20', Total = '1' 
+
+
+2017-11-07 20:36:34.221
+INFORMATION:	
+ Survey Date = '1994-06-14',  County Name = 'Aitkin', Lake Name = 'Round' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '15', Total = '1' 
+
+
+2017-11-07 20:36:40.554
+INFORMATION:	
+ Survey Date = '2012-06-25',  County Name = 'Becker', Lake Name = 'Bad Medicine' 
+ Total Burbot Greater Than 8 inches = '17' 
+ Burbot Size = '15', Total = '1' 
+Burbot Size = '18', Total = '2' 
+Burbot Size = '19', Total = '4' 
+Burbot Size = '20', Total = '5' 
+Burbot Size = '21', Total = '4' 
+Burbot Size = '22', Total = '1' 
+
+
+2017-11-07 20:36:50.829
+INFORMATION:	
+ Survey Date = '2001-08-06',  County Name = 'Becker', Lake Name = 'Toad' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '20', Total = '1' 
+
+
+2017-11-07 20:36:51.715
+INFORMATION:	
+ Survey Date = '2002-07-15',  County Name = 'Becker', Lake Name = 'White Earth' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '17', Total = '1' 
+
+
+2017-11-07 20:36:52.465
+INFORMATION:	
+ Survey Date = '2012-08-06',  County Name = 'Beltrami', Lake Name = 'Bemidji (main lake)' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '13', Total = '1' 
+
+
+2017-11-07 20:36:52.852
+INFORMATION:	
+ Survey Date = '1995-06-26',  County Name = 'Beltrami', Lake Name = 'Big' 
+ Total Burbot Greater Than 8 inches = '7' 
+ Burbot Size = '18', Total = '3' 
+Burbot Size = '19', Total = '1' 
+Burbot Size = '20', Total = '3' 
+
+
+2017-11-07 20:36:53.303
+INFORMATION:	
+ Survey Date = '2012-07-10',  County Name = 'Beltrami', Lake Name = 'Blackduck' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '21', Total = '1' 
+
+
+2017-11-07 20:36:54.172
+INFORMATION:	
+ Survey Date = '2015-07-01',  County Name = 'Beltrami', Lake Name = 'Cass' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '21', Total = '1' 
+
+
+2017-11-07 20:36:55.119
+INFORMATION:	
+ Survey Date = '2009-07-06',  County Name = 'Beltrami', Lake Name = 'Gull' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '19', Total = '1' 
+Burbot Size = '21', Total = '1' 
+
+
+2017-11-07 20:36:55.715
+INFORMATION:	
+ Survey Date = '2004-08-23',  County Name = 'Beltrami', Lake Name = 'Kitchi' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '15', Total = '1' 
+
+
+2017-11-07 20:36:56.741
+INFORMATION:	
+ Survey Date = '2001-08-21',  County Name = 'Beltrami', Lake Name = 'Marquette' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '25', Total = '1' 
+
+
+2017-11-07 20:36:57.546
+INFORMATION:	
+ Survey Date = '2016-08-01',  County Name = 'Beltrami', Lake Name = 'Movil' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '19', Total = '1' 
+
+
+2017-11-07 20:36:57.966
+INFORMATION:	
+ Survey Date = '1999-08-16',  County Name = 'Beltrami', Lake Name = 'Pimushe' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '21', Total = '1' 
+
+
+2017-11-07 20:36:59.883
+INFORMATION:	
+ Survey Date = '2011-06-27',  County Name = 'Beltrami', Lake Name = 'Turtle' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '20', Total = '1' 
+
+
+2017-11-07 20:37:00.100
+INFORMATION:	
+ Survey Date = '1993-07-12',  County Name = 'Beltrami', Lake Name = 'Turtle River' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '20', Total = '1' 
+
+
+2017-11-07 20:37:00.734
+INFORMATION:	
+ Survey Date = '2009-08-17',  County Name = 'Beltrami', Lake Name = 'Wolf' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '8', Total = '1' 
+
+
+2017-11-07 20:37:07.114
+INFORMATION:	
+ Survey Date = '2003-08-04',  County Name = 'Carlton', Lake Name = 'Eagle' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '15', Total = '1' 
+
+
+2017-11-07 20:37:07.648
+INFORMATION:	
+ Survey Date = '2015-07-20',  County Name = 'Carlton', Lake Name = 'Hanging Horn' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '14', Total = '1' 
+Burbot Size = '9', Total = '1' 
+
+
+2017-11-07 20:37:16.565
+INFORMATION:	
+ Survey Date = '2013-07-29',  County Name = 'Cass', Lake Name = 'Boy' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '15', Total = '1' 
+
+
+2017-11-07 20:37:17.421
+INFORMATION:	
+ Survey Date = '2015-08-24',  County Name = 'Cass', Lake Name = 'Crooked' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '23', Total = '1' 
+
+
+2017-11-07 20:37:19.230
+INFORMATION:	
+ Survey Date = '2012-06-18',  County Name = 'Cass', Lake Name = 'Girl' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '21', Total = '1' 
+
+
+2017-11-07 20:37:19.596
+INFORMATION:	
+ Survey Date = '2016-07-18',  County Name = 'Cass', Lake Name = 'Gull' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '20', Total = '1' 
+
+
+2017-11-07 20:37:21.535
+INFORMATION:	
+ Survey Date = '2007-06-11',  County Name = 'Cass', Lake Name = 'Jack' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '19', Total = '1' 
+
+
+2017-11-07 20:37:22.972
+INFORMATION:	
+ Survey Date = '2015-05-19',  County Name = 'Cass', Lake Name = 'Leech' 
+ Total Burbot Greater Than 8 inches = '262' 
+ Burbot Size = '11', Total = '4' 
+Burbot Size = '13', Total = '1' 
+Burbot Size = '14', Total = '2' 
+Burbot Size = '15', Total = '2' 
+Burbot Size = '16', Total = '8' 
+Burbot Size = '17', Total = '24' 
+Burbot Size = '18', Total = '19' 
+Burbot Size = '19', Total = '27' 
+Burbot Size = '20', Total = '42' 
+Burbot Size = '21', Total = '30' 
+Burbot Size = '22', Total = '29' 
+Burbot Size = '23', Total = '24' 
+Burbot Size = '24', Total = '19' 
+Burbot Size = '25', Total = '8' 
+Burbot Size = '26', Total = '8' 
+Burbot Size = '27', Total = '3' 
+Burbot Size = '28', Total = '4' 
+Burbot Size = '29', Total = '1' 
+Burbot Size = '30', Total = '5' 
+Burbot Size = '8', Total = '1' 
+Burbot Size = '9', Total = '1' 
+
+
+2017-11-07 20:37:23.565
+INFORMATION:	
+ Survey Date = '1996-07-02',  County Name = 'Cass', Lake Name = 'Little Boy' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '15', Total = '1' 
+Burbot Size = '17', Total = '1' 
+
+
+2017-11-07 20:37:28.586
+INFORMATION:	
+ Survey Date = '2015-08-17',  County Name = 'Cass', Lake Name = 'Pike Bay' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '20', Total = '1' 
+
+
+2017-11-07 20:37:29.366
+INFORMATION:	
+ Survey Date = '1996-08-20',  County Name = 'Cass', Lake Name = 'Ponto' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '18', Total = '1' 
+Burbot Size = '19', Total = '1' 
+
+
+2017-11-07 20:37:31.117
+INFORMATION:	
+ Survey Date = '2013-08-12',  County Name = 'Cass', Lake Name = 'Six Mile' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '15', Total = '1' 
+
+
+2017-11-07 20:37:31.779
+INFORMATION:	
+ Survey Date = '2014-04-28',  County Name = 'Cass', Lake Name = 'Steamboat' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '19', Total = '1' 
+Burbot Size = '20', Total = '1' 
+
+
+2017-11-07 20:37:32.606
+INFORMATION:	
+ Survey Date = '2004-07-19',  County Name = 'Cass', Lake Name = 'Sylvan' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '20', Total = '1' 
+
+
+2017-11-07 20:37:33.485
+INFORMATION:	
+ Survey Date = '2012-06-18',  County Name = 'Cass', Lake Name = 'Thunder' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '19', Total = '1' 
+
+
+2017-11-07 20:37:34.383
+INFORMATION:	
+ Survey Date = '2013-06-24',  County Name = 'Cass', Lake Name = 'Upper Gull' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '18', Total = '1' 
+
+
+2017-11-07 20:37:35.062
+INFORMATION:	
+ Survey Date = '2002-07-15',  County Name = 'Cass', Lake Name = 'Wabedo' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '14', Total = '1' 
+
+
+2017-11-07 20:37:36.199
+INFORMATION:	
+ Survey Date = '2015-09-14',  County Name = 'Cass', Lake Name = 'Winnibigoshish' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '18', Total = '1' 
+
+
+2017-11-07 20:37:36.379
+INFORMATION:	
+ Survey Date = '2006-07-31',  County Name = 'Cass', Lake Name = 'Woman' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '11', Total = '1' 
+
+
+2017-11-07 20:37:45.186
+INFORMATION:	
+ Survey Date = '2008-06-09',  County Name = 'Cook', Lake Name = 'Alton' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '16', Total = '1' 
+
+
+2017-11-07 20:37:48.339
+INFORMATION:	
+ Survey Date = '2000-07-17',  County Name = 'Cook', Lake Name = 'Caribou' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '18', Total = '1' 
+Burbot Size = '19', Total = '1' 
+
+
+2017-11-07 20:37:49.023
+INFORMATION:	
+ Survey Date = '2016-09-12',  County Name = 'Cook', Lake Name = 'Cherokee' 
+ Total Burbot Greater Than 8 inches = '4' 
+ Burbot Size = '11', Total = '1' 
+Burbot Size = '12', Total = '1' 
+Burbot Size = '13', Total = '1' 
+Burbot Size = '16', Total = '1' 
+
+
+2017-11-07 20:37:49.573
+INFORMATION:	
+ Survey Date = '2014-07-21',  County Name = 'Cook', Lake Name = 'Clearwater' 
+ Total Burbot Greater Than 8 inches = '3' 
+ Burbot Size = '16', Total = '1' 
+Burbot Size = '22', Total = '1' 
+Burbot Size = '30', Total = '1' 
+
+
+2017-11-07 20:37:50.226
+INFORMATION:	
+ Survey Date = '2016-06-21',  County Name = 'Cook', Lake Name = 'Crooked' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '11', Total = '1' 
+
+
+2017-11-07 20:37:50.571
+INFORMATION:	
+ Survey Date = '2001-09-04',  County Name = 'Cook', Lake Name = 'Daniels' 
+ Total Burbot Greater Than 8 inches = '4' 
+ Burbot Size = '11', Total = '2' 
+Burbot Size = '15', Total = '1' 
+Burbot Size = '9', Total = '1' 
+
+
+2017-11-07 20:37:52.597
+INFORMATION:	
+ Survey Date = '1999-09-07',  County Name = 'Cook', Lake Name = 'East Pike' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '15', Total = '1' 
+
+
+2017-11-07 20:37:55.058
+INFORMATION:	
+ Survey Date = '1996-07-10',  County Name = 'Cook', Lake Name = 'French' 
+ Total Burbot Greater Than 8 inches = '4' 
+ Burbot Size = '11', Total = '1' 
+Burbot Size = '13', Total = '1' 
+Burbot Size = '16', Total = '1' 
+Burbot Size = '18', Total = '1' 
+
+
+2017-11-07 20:37:55.144
+INFORMATION:	
+ Survey Date = '1998-08-10',  County Name = 'Cook', Lake Name = 'Frost' 
+ Total Burbot Greater Than 8 inches = '4' 
+ Burbot Size = '11', Total = '1' 
+Burbot Size = '13', Total = '1' 
+Burbot Size = '14', Total = '1' 
+Burbot Size = '15', Total = '1' 
+
+
+2017-11-07 20:37:55.241
+INFORMATION:	
+ Survey Date = '2015-09-14',  County Name = 'Cook', Lake Name = 'Gabimichigami' 
+ Total Burbot Greater Than 8 inches = '7' 
+ Burbot Size = '11', Total = '3' 
+Burbot Size = '12', Total = '1' 
+Burbot Size = '14', Total = '2' 
+Burbot Size = '24', Total = '1' 
+
+
+2017-11-07 20:37:55.418
+INFORMATION:	
+ Survey Date = '2012-08-06',  County Name = 'Cook', Lake Name = 'Gaskin' 
+ Total Burbot Greater Than 8 inches = '5' 
+ Burbot Size = '11', Total = '1' 
+Burbot Size = '14', Total = '1' 
+Burbot Size = '15', Total = '1' 
+Burbot Size = '18', Total = '2' 
+
+
+2017-11-07 20:37:55.505
+INFORMATION:	
+ Survey Date = '1997-07-21',  County Name = 'Cook', Lake Name = 'Gillis' 
+ Total Burbot Greater Than 8 inches = '7' 
+ Burbot Size = '12', Total = '2' 
+Burbot Size = '13', Total = '1' 
+Burbot Size = '15', Total = '1' 
+Burbot Size = '16', Total = '1' 
+Burbot Size = '17', Total = '1' 
+Burbot Size = '9', Total = '1' 
+
+
+2017-11-07 20:37:56.598
+INFORMATION:	
+ Survey Date = '2015-08-10',  County Name = 'Cook', Lake Name = 'Gunflint' 
+ Total Burbot Greater Than 8 inches = '11' 
+ Burbot Size = '11', Total = '1' 
+Burbot Size = '12', Total = '1' 
+Burbot Size = '13', Total = '3' 
+Burbot Size = '15', Total = '1' 
+Burbot Size = '16', Total = '1' 
+Burbot Size = '17', Total = '3' 
+Burbot Size = '18', Total = '1' 
+
+
+2017-11-07 20:37:57.597
+INFORMATION:	
+ Survey Date = '1993-08-02',  County Name = 'Cook', Lake Name = 'Howard' 
+ Total Burbot Greater Than 8 inches = '10' 
+ Burbot Size = '11', Total = '2' 
+Burbot Size = '12', Total = '4' 
+Burbot Size = '13', Total = '2' 
+Burbot Size = '15', Total = '2' 
+
+
+2017-11-07 20:37:58.789
+INFORMATION:	
+ Survey Date = '1996-09-03',  County Name = 'Cook', Lake Name = 'Karl' 
+ Total Burbot Greater Than 8 inches = '4' 
+ Burbot Size = '10', Total = '1' 
+Burbot Size = '11', Total = '1' 
+Burbot Size = '8', Total = '1' 
+Burbot Size = '9', Total = '1' 
+
+
+2017-11-07 20:38:01.260
+INFORMATION:	
+ Survey Date = '2011-09-12',  County Name = 'Cook', Lake Name = 'Little Saganaga' 
+ Total Burbot Greater Than 8 inches = '8' 
+ Burbot Size = '11', Total = '2' 
+Burbot Size = '13', Total = '1' 
+Burbot Size = '14', Total = '1' 
+Burbot Size = '15', Total = '2' 
+Burbot Size = '16', Total = '1' 
+Burbot Size = '19', Total = '1' 
+
+
+2017-11-07 20:38:01.974
+INFORMATION:	
+ Survey Date = '1995-07-17',  County Name = 'Cook', Lake Name = 'Long Island' 
+ Total Burbot Greater Than 8 inches = '15' 
+ Burbot Size = '10', Total = '2' 
+Burbot Size = '12', Total = '3' 
+Burbot Size = '15', Total = '1' 
+Burbot Size = '16', Total = '4' 
+Burbot Size = '17', Total = '1' 
+Burbot Size = '18', Total = '2' 
+Burbot Size = '9', Total = '2' 
+
+
+2017-11-07 20:38:03.388
+INFORMATION:	
+ Survey Date = '2013-08-05',  County Name = 'Cook', Lake Name = 'McFarland' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '9', Total = '1' 
+
+
+2017-11-07 20:38:04.106
+INFORMATION:	
+ Survey Date = '2013-07-01',  County Name = 'Cook', Lake Name = 'Misquah' 
+ Total Burbot Greater Than 8 inches = '3' 
+ Burbot Size = '12', Total = '1' 
+Burbot Size = '13', Total = '1' 
+Burbot Size = '16', Total = '1' 
+
+
+2017-11-07 20:38:04.841
+INFORMATION:	
+ Survey Date = '1998-09-14',  County Name = 'Cook', Lake Name = 'Moose' 
+ Total Burbot Greater Than 8 inches = '29' 
+ Burbot Size = '11', Total = '1' 
+Burbot Size = '13', Total = '1' 
+Burbot Size = '14', Total = '2' 
+Burbot Size = '15', Total = '3' 
+Burbot Size = '16', Total = '9' 
+Burbot Size = '17', Total = '4' 
+Burbot Size = '18', Total = '2' 
+Burbot Size = '19', Total = '1' 
+Burbot Size = '20', Total = '2' 
+Burbot Size = '21', Total = '2' 
+Burbot Size = '22', Total = '2' 
+
+
+2017-11-07 20:38:06.333
+INFORMATION:	
+ Survey Date = '1995-07-30',  County Name = 'Cook', Lake Name = 'North' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '14', Total = '1' 
+Burbot Size = '16', Total = '1' 
+
+
+2017-11-07 20:38:08.582
+INFORMATION:	
+ Survey Date = '2016-09-12',  County Name = 'Cook', Lake Name = 'Pine' 
+ Total Burbot Greater Than 8 inches = '3' 
+ Burbot Size = '14', Total = '1' 
+Burbot Size = '17', Total = '1' 
+Burbot Size = '19', Total = '1' 
+
+
+2017-11-07 20:38:09.136
+INFORMATION:	
+ Survey Date = '2016-07-25',  County Name = 'Cook', Lake Name = 'Poplar' 
+ Total Burbot Greater Than 8 inches = '6' 
+ Burbot Size = '10', Total = '1' 
+Burbot Size = '12', Total = '1' 
+Burbot Size = '14', Total = '2' 
+Burbot Size = '15', Total = '1' 
+Burbot Size = '16', Total = '1' 
+
+
+2017-11-07 20:38:10.005
+INFORMATION:	
+ Survey Date = '1998-07-06',  County Name = 'Cook', Lake Name = 'Red Rock' 
+ Total Burbot Greater Than 8 inches = '6' 
+ Burbot Size = '12', Total = '1' 
+Burbot Size = '14', Total = '2' 
+Burbot Size = '16', Total = '2' 
+Burbot Size = '22', Total = '1' 
+
+
+2017-11-07 20:38:10.558
+INFORMATION:	
+ Survey Date = '2013-09-16',  County Name = 'Cook', Lake Name = 'Rog' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '8', Total = '1' 
+Burbot Size = '9', Total = '1' 
+
+
+2017-11-07 20:38:11.368
+INFORMATION:	
+ Survey Date = '2014-08-04',  County Name = 'Cook', Lake Name = 'Saganaga' 
+ Total Burbot Greater Than 8 inches = '5' 
+ Burbot Size = '14', Total = '2' 
+Burbot Size = '16', Total = '1' 
+Burbot Size = '19', Total = '1' 
+Burbot Size = '20', Total = '1' 
+
+
+2017-11-07 20:38:11.671
+INFORMATION:	
+ Survey Date = '2015-06-08',  County Name = 'Cook', Lake Name = 'Sea Gull' 
+ Total Burbot Greater Than 8 inches = '16' 
+ Burbot Size = '11', Total = '2' 
+Burbot Size = '12', Total = '2' 
+Burbot Size = '13', Total = '2' 
+Burbot Size = '14', Total = '3' 
+Burbot Size = '16', Total = '4' 
+Burbot Size = '17', Total = '1' 
+Burbot Size = '22', Total = '2' 
+
+
+2017-11-07 20:38:14.109
+INFORMATION:	
+ Survey Date = '2013-07-01',  County Name = 'Cook', Lake Name = 'Swamp River Reservoir' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '11', Total = '1' 
+
+
+2017-11-07 20:38:15.397
+INFORMATION:	
+ Survey Date = '2016-07-11',  County Name = 'Cook', Lake Name = 'Tom' 
+ Total Burbot Greater Than 8 inches = '6' 
+ Burbot Size = '18', Total = '1' 
+Burbot Size = '19', Total = '2' 
+Burbot Size = '22', Total = '1' 
+Burbot Size = '23', Total = '2' 
+
+
+2017-11-07 20:38:16.387
+INFORMATION:	
+ Survey Date = '1999-08-30',  County Name = 'Cook', Lake Name = 'Tuscarora' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '16', Total = '1' 
+
+
+2017-11-07 20:38:17.971
+INFORMATION:	
+ Survey Date = '1993-09-15',  County Name = 'Cook', Lake Name = 'Vista' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '11', Total = '1' 
+Burbot Size = '12', Total = '1' 
+
+
+2017-11-07 20:38:18.998
+INFORMATION:	
+ Survey Date = '1996-08-05',  County Name = 'Cook', Lake Name = 'West Pike' 
+ Total Burbot Greater Than 8 inches = '41' 
+ Burbot Size = '13', Total = '1' 
+Burbot Size = '14', Total = '4' 
+Burbot Size = '15', Total = '3' 
+Burbot Size = '16', Total = '10' 
+Burbot Size = '17', Total = '11' 
+Burbot Size = '18', Total = '3' 
+Burbot Size = '19', Total = '4' 
+Burbot Size = '21', Total = '3' 
+Burbot Size = '23', Total = '1' 
+Burbot Size = '24', Total = '1' 
+
+
+2017-11-07 20:38:23.968
+INFORMATION:	
+ Survey Date = '2014-07-21',  County Name = 'Crow Wing', Lake Name = 'Borden' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '8', Total = '1' 
+
+
+2017-11-07 20:38:25.609
+INFORMATION:	
+ Survey Date = '2005-07-19',  County Name = 'Crow Wing', Lake Name = 'Cross Lake Reservoir' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '20', Total = '1' 
+Burbot Size = '25', Total = '1' 
+
+
+2017-11-07 20:38:32.136
+INFORMATION:	
+ Survey Date = '2010-07-12',  County Name = 'Crow Wing', Lake Name = 'Mahnomen, Alstead & Arco' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '14', Total = '1' 
+Burbot Size = '20', Total = '1' 
+
+
+2017-11-07 20:38:37.482
+INFORMATION:	
+ Survey Date = '2016-07-11',  County Name = 'Crow Wing', Lake Name = 'Round' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '13', Total = '1' 
+
+
+2017-11-07 20:38:37.731
+INFORMATION:	
+ Survey Date = '2005-06-27',  County Name = 'Crow Wing', Lake Name = 'Rush' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '19', Total = '1' 
+
+
+2017-11-07 20:38:38.434
+INFORMATION:	
+ Survey Date = '1997-08-18',  County Name = 'Crow Wing', Lake Name = 'Serpent' 
+ Total Burbot Greater Than 8 inches = '3' 
+ Burbot Size = '19', Total = '1' 
+Burbot Size = '26', Total = '2' 
+
+
+2017-11-07 20:38:42.503
+INFORMATION:	
+ Survey Date = '2000-08-08',  County Name = 'Crow Wing', Lake Name = 'Whitefish' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '20', Total = '1' 
+
+
+2017-11-07 20:38:56.967
+INFORMATION:	
+ Survey Date = '2015-06-12',  County Name = 'Goodhue', Lake Name = 'Pepin' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '14', Total = '1' 
+
+
+2017-11-07 20:39:10.606
+INFORMATION:	
+ Survey Date = '1996-08-12',  County Name = 'Hubbard', Lake Name = 'East Crooked' 
+ Total Burbot Greater Than 8 inches = '4' 
+ Burbot Size = '22', Total = '1' 
+Burbot Size = '23', Total = '1' 
+Burbot Size = '28', Total = '1' 
+Burbot Size = '29', Total = '1' 
+
+
+2017-11-07 20:39:12.227
+INFORMATION:	
+ Survey Date = '2010-06-16',  County Name = 'Hubbard', Lake Name = 'Garfield' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '21', Total = '1' 
+
+
+2017-11-07 20:39:14.293
+INFORMATION:	
+ Survey Date = '2014-06-16',  County Name = 'Hubbard', Lake Name = 'Kabekona' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '19', Total = '1' 
+Burbot Size = '22', Total = '1' 
+
+
+2017-11-07 20:39:17.367
+INFORMATION:	
+ Survey Date = '2012-08-13',  County Name = 'Hubbard', Lake Name = 'Plantagenet' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '22', Total = '1' 
+
+
+2017-11-07 20:39:23.691
+INFORMATION:	
+ Survey Date = '2007-08-06',  County Name = 'Itasca', Lake Name = 'Ball Club' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '31', Total = '1' 
+
+
+2017-11-07 20:39:24.541
+INFORMATION:	
+ Survey Date = '1998-07-13',  County Name = 'Itasca', Lake Name = 'Bass' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '20', Total = '1' 
+
+
+2017-11-07 20:39:28.137
+INFORMATION:	
+ Survey Date = '1996-08-05',  County Name = 'Itasca', Lake Name = 'Bowstring' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '20', Total = '1' 
+
+
+2017-11-07 20:39:31.562
+INFORMATION:	
+ Survey Date = '2012-06-18',  County Name = 'Itasca', Lake Name = 'Cut Foot Sioux' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '18', Total = '1' 
+
+
+2017-11-07 20:39:32.214
+INFORMATION:	
+ Survey Date = '2004-07-26',  County Name = 'Itasca', Lake Name = 'Deer' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '21', Total = '1' 
+
+
+2017-11-07 20:39:38.127
+INFORMATION:	
+ Survey Date = '2006-06-19',  County Name = 'Itasca', Lake Name = 'Island' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '21', Total = '1' 
+
+
+2017-11-07 20:39:38.506
+INFORMATION:	
+ Survey Date = '1999-08-30',  County Name = 'Itasca', Lake Name = 'Jessie' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '20', Total = '1' 
+
+
+2017-11-07 20:39:45.367
+INFORMATION:	
+ Survey Date = '2006-06-05',  County Name = 'Itasca', Lake Name = 'Loon' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '20', Total = '1' 
+
+
+2017-11-07 20:39:47.638
+INFORMATION:	
+ Survey Date = '2010-08-23',  County Name = 'Itasca', Lake Name = 'Moose' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '10', Total = '1' 
+
+
+2017-11-07 20:39:50.589
+INFORMATION:	
+ Survey Date = '2000-07-31',  County Name = 'Itasca', Lake Name = 'Pokegama' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '15', Total = '1' 
+
+
+2017-11-07 20:39:52.095
+INFORMATION:	
+ Survey Date = '2006-06-26',  County Name = 'Itasca', Lake Name = 'Round' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '17', Total = '1' 
+Burbot Size = '22', Total = '1' 
+
+
+2017-11-07 20:39:52.724
+INFORMATION:	
+ Survey Date = '2015-09-28',  County Name = 'Itasca', Lake Name = 'Sand' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '21', Total = '1' 
+
+
+2017-11-07 20:39:53.454
+INFORMATION:	
+ Survey Date = '2014-06-23',  County Name = 'Itasca', Lake Name = 'Shallow' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '12', Total = '1' 
+Burbot Size = '14', Total = '1' 
+
+
+2017-11-07 20:39:54.144
+INFORMATION:	
+ Survey Date = '2012-08-27',  County Name = 'Itasca', Lake Name = 'Siseebakwet' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '21', Total = '1' 
+
+
+2017-11-07 20:39:56.736
+INFORMATION:	
+ Survey Date = '2005-08-15',  County Name = 'Itasca', Lake Name = 'Swan' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '23', Total = '1' 
+
+
+2017-11-07 20:39:57.599
+INFORMATION:	
+ Survey Date = '1993-08-16',  County Name = 'Itasca', Lake Name = 'Trout' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '17', Total = '1' 
+
+
+2017-11-07 20:39:59.564
+INFORMATION:	
+ Survey Date = '2008-08-11',  County Name = 'Itasca', Lake Name = 'Whitefish' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '20', Total = '1' 
+
+
+2017-11-07 20:40:12.946
+INFORMATION:	
+ Survey Date = '2015-08-24',  County Name = 'Lake', Lake Name = 'Basswood' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '12', Total = '1' 
+
+
+2017-11-07 20:40:17.920
+INFORMATION:	
+ Survey Date = '2007-07-09',  County Name = 'Lake', Lake Name = 'Crooked' 
+ Total Burbot Greater Than 8 inches = '3' 
+ Burbot Size = '12', Total = '1' 
+Burbot Size = '15', Total = '1' 
+Burbot Size = '18', Total = '1' 
+
+
+2017-11-07 20:40:20.953
+INFORMATION:	
+ Survey Date = '1993-08-16',  County Name = 'Lake', Lake Name = 'Fall' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '12', Total = '1' 
+Burbot Size = '13', Total = '1' 
+
+
+2017-11-07 20:40:27.907
+INFORMATION:	
+ Survey Date = '2006-07-10',  County Name = 'Lake', Lake Name = 'Knife' 
+ Total Burbot Greater Than 8 inches = '14' 
+ Burbot Size = '10', Total = '1' 
+Burbot Size = '11', Total = '1' 
+Burbot Size = '12', Total = '1' 
+Burbot Size = '13', Total = '2' 
+Burbot Size = '14', Total = '1' 
+Burbot Size = '15', Total = '3' 
+Burbot Size = '16', Total = '1' 
+Burbot Size = '17', Total = '2' 
+Burbot Size = '18', Total = '1' 
+Burbot Size = '20', Total = '1' 
+
+
+2017-11-07 20:40:27.992
+INFORMATION:	
+ Survey Date = '2013-07-26',  County Name = 'Lake', Lake Name = 'Koma' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '8', Total = '1' 
+
+
+2017-11-07 20:40:28.814
+INFORMATION:	
+ Survey Date = '2006-07-10',  County Name = 'Lake', Lake Name = 'Little Knife' 
+ Total Burbot Greater Than 8 inches = '11' 
+ Burbot Size = '10', Total = '1' 
+Burbot Size = '12', Total = '2' 
+Burbot Size = '13', Total = '1' 
+Burbot Size = '14', Total = '1' 
+Burbot Size = '16', Total = '1' 
+Burbot Size = '17', Total = '2' 
+Burbot Size = '18', Total = '1' 
+Burbot Size = '22', Total = '1' 
+Burbot Size = '9', Total = '1' 
+
+
+2017-11-07 20:40:31.392
+INFORMATION:	
+ Survey Date = '1993-08-16',  County Name = 'Lake', Lake Name = 'Newton' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '12', Total = '1' 
+
+
+2017-11-07 20:40:32.312
+INFORMATION:	
+ Survey Date = '2001-09-10',  County Name = 'Lake', Lake Name = 'Ogishkemuncie' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '11', Total = '1' 
+
+
+2017-11-07 20:40:32.446
+INFORMATION:	
+ Survey Date = '2005-07-18',  County Name = 'Lake', Lake Name = 'Ojibway' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '22', Total = '1' 
+
+
+2017-11-07 20:40:32.554
+INFORMATION:	
+ Survey Date = '1996-06-17',  County Name = 'Lake', Lake Name = 'One' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '12', Total = '1' 
+
+
+2017-11-07 20:40:32.977
+INFORMATION:	
+ Survey Date = '2006-07-10',  County Name = 'Lake', Lake Name = 'Ottertrack' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '25', Total = '1' 
+
+
+2017-11-07 20:40:37.034
+INFORMATION:	
+ Survey Date = '2010-07-19',  County Name = 'Lake', Lake Name = 'Snowbank' 
+ Total Burbot Greater Than 8 inches = '31' 
+ Burbot Size = '12', Total = '1' 
+Burbot Size = '13', Total = '1' 
+Burbot Size = '14', Total = '3' 
+Burbot Size = '15', Total = '3' 
+Burbot Size = '16', Total = '7' 
+Burbot Size = '17', Total = '7' 
+Burbot Size = '18', Total = '1' 
+Burbot Size = '19', Total = '1' 
+Burbot Size = '20', Total = '3' 
+Burbot Size = '21', Total = '2' 
+Burbot Size = '23', Total = '1' 
+Burbot Size = '24', Total = '1' 
+
+
+2017-11-07 20:40:37.444
+INFORMATION:	
+ Survey Date = '1996-07-10',  County Name = 'Lake', Lake Name = 'South McDougal' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '9', Total = '1' 
+
+
+2017-11-07 20:40:38.782
+INFORMATION:	
+ Survey Date = '1993-09-09',  County Name = 'Lake', Lake Name = 'Sucker' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '15', Total = '1' 
+
+
+2017-11-07 20:40:40.852
+INFORMATION:	
+ Survey Date = '2014-07-28',  County Name = 'Lake', Lake Name = 'Triangle' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '10', Total = '1' 
+
+
+2017-11-07 20:40:41.270
+INFORMATION:	
+ Survey Date = '1996-06-17',  County Name = 'Lake', Lake Name = 'Two' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '13', Total = '1' 
+
+
+2017-11-07 20:40:46.721
+INFORMATION:	
+ Survey Date = '1995-07-11',  County Name = 'Lake', Lake Name = 'Windy' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '8', Total = '1' 
+Burbot Size = '9', Total = '1' 
+
+
+2017-11-07 20:40:47.331
+INFORMATION:	
+ Survey Date = '2016-04-01',  County Name = 'Lake of the Woods', Lake Name = 'Lake of the Woods' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '13', Total = '1' 
+Burbot Size = '8', Total = '1' 
+
+
+2017-11-07 20:41:04.976
+INFORMATION:	
+ Survey Date = '2015-09-01',  County Name = 'Mille Lacs', Lake Name = 'Mille Lacs' 
+ Total Burbot Greater Than 8 inches = '3' 
+ Burbot Size = '8', Total = '2' 
+Burbot Size = '9', Total = '1' 
+
+
+2017-11-07 20:41:08.364
+INFORMATION:	
+ Survey Date = '2002-06-10',  County Name = 'Morrison', Lake Name = 'Sylvan' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '16', Total = '1' 
+
+
+2017-11-07 20:41:14.205
+INFORMATION:	
+ Survey Date = '2011-07-25',  County Name = 'Otter Tail', Lake Name = 'Big Pine' 
+ Total Burbot Greater Than 8 inches = '13' 
+ Burbot Size = '12', Total = '2' 
+Burbot Size = '13', Total = '1' 
+Burbot Size = '14', Total = '2' 
+Burbot Size = '15', Total = '1' 
+Burbot Size = '16', Total = '1' 
+Burbot Size = '17', Total = '3' 
+Burbot Size = '18', Total = '1' 
+Burbot Size = '21', Total = '1' 
+Burbot Size = '9', Total = '1' 
+
+
+2017-11-07 20:41:15.705
+INFORMATION:	
+ Survey Date = '2004-08-23',  County Name = 'Otter Tail', Lake Name = 'Deer' 
+ Total Burbot Greater Than 8 inches = '3' 
+ Burbot Size = '19', Total = '1' 
+Burbot Size = '23', Total = '2' 
+
+
+2017-11-07 20:41:16.262
+INFORMATION:	
+ Survey Date = '1999-08-09',  County Name = 'Otter Tail', Lake Name = 'East Battle' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '20', Total = '1' 
+
+
+2017-11-07 20:41:19.393
+INFORMATION:	
+ Survey Date = '2006-07-05',  County Name = 'Otter Tail', Lake Name = 'Hoot' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '22', Total = '1' 
+
+
+2017-11-07 20:41:20.965
+INFORMATION:	
+ Survey Date = '2011-06-27',  County Name = 'Otter Tail', Lake Name = 'Little Pine' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '13', Total = '1' 
+
+
+2017-11-07 20:41:26.088
+INFORMATION:	
+ Survey Date = '2007-08-13',  County Name = 'Otter Tail', Lake Name = 'Rush' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '19', Total = '1' 
+
+
+2017-11-07 20:41:28.151
+INFORMATION:	
+ Survey Date = '2004-08-16',  County Name = 'Otter Tail', Lake Name = 'Sybil' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '20', Total = '1' 
+
+
+2017-11-07 20:42:05.305
+INFORMATION:	
+ Survey Date = '1997-06-30',  County Name = 'St. Louis', Lake Name = 'Armstrong' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '20', Total = '1' 
+Burbot Size = '24', Total = '1' 
+
+
+2017-11-07 20:42:06.685
+INFORMATION:	
+ Survey Date = '1995-06-14',  County Name = 'St. Louis', Lake Name = 'Bear Head' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '22', Total = '1' 
+
+
+2017-11-07 20:42:06.820
+INFORMATION:	
+ Survey Date = '2008-06-30',  County Name = 'St. Louis', Lake Name = 'Bear Island' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '21', Total = '1' 
+
+
+2017-11-07 20:42:07.410
+INFORMATION:	
+ Survey Date = '1993-07-20',  County Name = 'St. Louis', Lake Name = 'Big' 
+ Total Burbot Greater Than 8 inches = '3' 
+ Burbot Size = '11', Total = '1' 
+Burbot Size = '13', Total = '1' 
+Burbot Size = '14', Total = '1' 
+
+
+2017-11-07 20:42:07.542
+INFORMATION:	
+ Survey Date = '1994-08-29',  County Name = 'St. Louis', Lake Name = 'Big' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '19', Total = '1' 
+
+
+2017-11-07 20:42:08.939
+INFORMATION:	
+ Survey Date = '1993-07-07',  County Name = 'St. Louis', Lake Name = 'Boulder' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '14', Total = '1' 
+Burbot Size = '9', Total = '1' 
+
+
+2017-11-07 20:42:09.409
+INFORMATION:	
+ Survey Date = '2015-07-13',  County Name = 'St. Louis', Lake Name = 'Burntside' 
+ Total Burbot Greater Than 8 inches = '5' 
+ Burbot Size = '19', Total = '1' 
+Burbot Size = '21', Total = '1' 
+Burbot Size = '22', Total = '2' 
+Burbot Size = '23', Total = '1' 
+
+
+2017-11-07 20:42:12.767
+INFORMATION:	
+ Survey Date = '2006-08-28',  County Name = 'St. Louis', Lake Name = 'Crane' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '16', Total = '1' 
+
+
+2017-11-07 20:42:15.154
+INFORMATION:	
+ Survey Date = '2015-08-10',  County Name = 'St. Louis', Lake Name = 'Eagles Nest #1' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '12', Total = '1' 
+
+
+2017-11-07 20:42:15.558
+INFORMATION:	
+ Survey Date = '1995-07-19',  County Name = 'St. Louis', Lake Name = 'Eagles Nest No. Four' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '13', Total = '1' 
+
+
+2017-11-07 20:42:16.625
+INFORMATION:	
+ Survey Date = '2008-08-04',  County Name = 'St. Louis', Lake Name = 'Ely' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '20', Total = '1' 
+
+
+2017-11-07 20:42:17.976
+INFORMATION:	
+ Survey Date = '1999-08-23',  County Name = 'St. Louis', Lake Name = 'Fish Lake Flowage' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '16', Total = '1' 
+
+
+2017-11-07 20:42:18.830
+INFORMATION:	
+ Survey Date = '1995-07-05',  County Name = 'St. Louis', Lake Name = 'Frying Pan' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '8', Total = '1' 
+Burbot Size = '9', Total = '1' 
+
+
+2017-11-07 20:42:20.499
+INFORMATION:	
+ Survey Date = '2008-08-25',  County Name = 'St. Louis', Lake Name = 'Gun' 
+ Total Burbot Greater Than 8 inches = '3' 
+ Burbot Size = '10', Total = '1' 
+Burbot Size = '12', Total = '1' 
+Burbot Size = '15', Total = '1' 
+
+
+2017-11-07 20:42:22.957
+INFORMATION:	
+ Survey Date = '1995-07-05',  County Name = 'St. Louis', Lake Name = 'Indian' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '14', Total = '1' 
+
+
+2017-11-07 20:42:23.451
+INFORMATION:	
+ Survey Date = '2016-07-11',  County Name = 'St. Louis', Lake Name = 'Island Lake Reservoir' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '9', Total = '1' 
+
+
+2017-11-07 20:42:23.988
+INFORMATION:	
+ Survey Date = '1993-06-28',  County Name = 'St. Louis', Lake Name = 'Jeanette' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '14', Total = '1' 
+
+
+2017-11-07 20:42:24.772
+INFORMATION:	
+ Survey Date = '2016-06-08',  County Name = 'St. Louis', Lake Name = 'Kabetogama' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '8', Total = '2' 
+
+
+2017-11-07 20:42:25.774
+INFORMATION:	
+ Survey Date = '2014-07-07',  County Name = 'St. Louis', Lake Name = 'Lac la Croix' 
+ Total Burbot Greater Than 8 inches = '22' 
+ Burbot Size = '10', Total = '1' 
+Burbot Size = '12', Total = '1' 
+Burbot Size = '13', Total = '2' 
+Burbot Size = '14', Total = '3' 
+Burbot Size = '15', Total = '4' 
+Burbot Size = '16', Total = '2' 
+Burbot Size = '17', Total = '2' 
+Burbot Size = '18', Total = '1' 
+Burbot Size = '19', Total = '2' 
+Burbot Size = '20', Total = '2' 
+Burbot Size = '8', Total = '1' 
+Burbot Size = '9', Total = '1' 
+
+
+2017-11-07 20:42:27.807
+INFORMATION:	
+ Survey Date = '2009-06-22',  County Name = 'St. Louis', Lake Name = 'Little Loon' 
+ Total Burbot Greater Than 8 inches = '7' 
+ Burbot Size = '17', Total = '2' 
+Burbot Size = '19', Total = '2' 
+Burbot Size = '20', Total = '1' 
+Burbot Size = '21', Total = '1' 
+Burbot Size = '22', Total = '1' 
+
+
+2017-11-07 20:42:28.696
+INFORMATION:	
+ Survey Date = '2011-08-01',  County Name = 'St. Louis', Lake Name = 'Little Vermilion' 
+ Total Burbot Greater Than 8 inches = '4' 
+ Burbot Size = '11', Total = '1' 
+Burbot Size = '12', Total = '1' 
+Burbot Size = '16', Total = '1' 
+Burbot Size = '8', Total = '1' 
+
+
+2017-11-07 20:42:29.753
+INFORMATION:	
+ Survey Date = '2015-08-10',  County Name = 'St. Louis', Lake Name = 'Loon' 
+ Total Burbot Greater Than 8 inches = '16' 
+ Burbot Size = '12', Total = '1' 
+Burbot Size = '13', Total = '2' 
+Burbot Size = '14', Total = '1' 
+Burbot Size = '18', Total = '2' 
+Burbot Size = '19', Total = '3' 
+Burbot Size = '20', Total = '4' 
+Burbot Size = '21', Total = '1' 
+Burbot Size = '24', Total = '1' 
+Burbot Size = '9', Total = '1' 
+
+
+2017-11-07 20:42:30.268
+INFORMATION:	
+ Survey Date = '2005-06-21',  County Name = 'St. Louis', Lake Name = 'Lower Pauness' 
+ Total Burbot Greater Than 8 inches = '3' 
+ Burbot Size = '13', Total = '1' 
+Burbot Size = '20', Total = '1' 
+Burbot Size = '9', Total = '1' 
+
+
+2017-11-07 20:42:31.124
+INFORMATION:	
+ Survey Date = '2014-07-07',  County Name = 'St. Louis', Lake Name = 'Maude' 
+ Total Burbot Greater Than 8 inches = '5' 
+ Burbot Size = '13', Total = '1' 
+Burbot Size = '15', Total = '2' 
+Burbot Size = '16', Total = '1' 
+Burbot Size = '17', Total = '1' 
+
+
+2017-11-07 20:42:33.360
+INFORMATION:	
+ Survey Date = '2014-08-04',  County Name = 'St. Louis', Lake Name = 'Mudro' 
+ Total Burbot Greater Than 8 inches = '3' 
+ Burbot Size = '16', Total = '1' 
+Burbot Size = '21', Total = '1' 
+Burbot Size = '22', Total = '1' 
+
+
+2017-11-07 20:42:33.486
+INFORMATION:	
+ Survey Date = '2007-08-13',  County Name = 'St. Louis', Lake Name = 'Mukooda' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '22', Total = '1' 
+
+
+2017-11-07 20:42:33.940
+INFORMATION:	
+ Survey Date = '2016-09-22',  County Name = 'St. Louis', Lake Name = 'Namakan' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '12', Total = '1' 
+
+
+2017-11-07 20:42:34.988
+INFORMATION:	
+ Survey Date = '1999-08-02',  County Name = 'St. Louis', Lake Name = 'North Twin' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '8', Total = '1' 
+
+
+2017-11-07 20:42:35.682
+INFORMATION:	
+ Survey Date = '1996-09-09',  County Name = 'St. Louis', Lake Name = 'Oyster' 
+ Total Burbot Greater Than 8 inches = '5' 
+ Burbot Size = '18', Total = '1' 
+Burbot Size = '23', Total = '2' 
+Burbot Size = '24', Total = '1' 
+Burbot Size = '25', Total = '1' 
+
+
+2017-11-07 20:42:37.624
+INFORMATION:	
+ Survey Date = '2003-07-21',  County Name = 'St. Louis', Lake Name = 'Pleasant' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '10', Total = '1' 
+
+
+2017-11-07 20:42:38.606
+INFORMATION:	
+ Survey Date = '2016-05-09',  County Name = 'St. Louis', Lake Name = 'Rainy' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '8', Total = '2' 
+
+
+2017-11-07 20:42:40.067
+INFORMATION:	
+ Survey Date = '2016-10-03',  County Name = 'St. Louis', Lake Name = 'Sand Point' 
+ Total Burbot Greater Than 8 inches = '3' 
+ Burbot Size = '13', Total = '1' 
+Burbot Size = '22', Total = '1' 
+Burbot Size = '9', Total = '1' 
+
+
+2017-11-07 20:42:43.141
+INFORMATION:	
+ Survey Date = '2003-08-05',  County Name = 'St. Louis', Lake Name = 'South Twin' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '10', Total = '1' 
+Burbot Size = '21', Total = '1' 
+
+
+2017-11-07 20:42:44.065
+INFORMATION:	
+ Survey Date = '1995-07-05',  County Name = 'St. Louis', Lake Name = 'St. Louis Bay' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '10', Total = '1' 
+
+
+2017-11-07 20:42:46.008
+INFORMATION:	
+ Survey Date = '2013-08-12',  County Name = 'St. Louis', Lake Name = 'Takucmich' 
+ Total Burbot Greater Than 8 inches = '12' 
+ Burbot Size = '13', Total = '1' 
+Burbot Size = '15', Total = '2' 
+Burbot Size = '16', Total = '3' 
+Burbot Size = '17', Total = '1' 
+Burbot Size = '18', Total = '1' 
+Burbot Size = '19', Total = '2' 
+Burbot Size = '20', Total = '1' 
+Burbot Size = '22', Total = '1' 
+
+
+2017-11-07 20:42:47.038
+INFORMATION:	
+ Survey Date = '2006-07-31',  County Name = 'St. Louis', Lake Name = 'Trout' 
+ Total Burbot Greater Than 8 inches = '2' 
+ Burbot Size = '12', Total = '1' 
+Burbot Size = '14', Total = '1' 
+
+
+2017-11-07 20:42:49.098
+INFORMATION:	
+ Survey Date = '2010-06-01',  County Name = 'St. Louis', Lake Name = 'Vermilion' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '20', Total = '1' 
+
+
+2017-11-07 20:42:50.422
+INFORMATION:	
+ Survey Date = '2004-06-21',  County Name = 'St. Louis', Lake Name = 'White Iron' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '13', Total = '1' 
+
+
+2017-11-07 20:42:50.554
+INFORMATION:	
+ Survey Date = '2007-07-16',  County Name = 'St. Louis', Lake Name = 'Whiteface Reservoir' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '15', Total = '1' 
+
+
+2017-11-07 20:42:50.698
+INFORMATION:	
+ Survey Date = '2012-08-14',  County Name = 'St. Louis', Lake Name = 'Whitewater' 
+ Total Burbot Greater Than 8 inches = '1' 
+ Burbot Size = '18', Total = '1' 
+
+
+2017-11-07 20:43:21.465
+SUCCESS:	Test passed

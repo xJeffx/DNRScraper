@@ -1,0 +1,582 @@
+
+2018-01-07 10:26:15.621
+INFORMATION:	Getting event firing web service wrapper
+
+2018-01-07 10:27:06.915
+INFORMATION:	
+ Survey Date = '2016-09-26',  County Name = 'Big Stone', Lake Name = 'Big Stone' 
+ Total WHB Greater Than 8 inches = '23' 
+ WHB Size = '11', Total = '2' 
+WHB Size = '12', Total = '2' 
+WHB Size = '13', Total = '8' 
+WHB Size = '14', Total = '7' 
+WHB Size = '15', Total = '3' 
+WHB Size = '16', Total = '1' 
+
+
+2018-01-07 10:27:08.243
+INFORMATION:	
+ Survey Date = '2015-07-13',  County Name = 'Big Stone', Lake Name = 'Marsh' 
+ Total WHB Greater Than 8 inches = '15' 
+ WHB Size = '12', Total = '6' 
+WHB Size = '13', Total = '4' 
+WHB Size = '15', Total = '2' 
+WHB Size = '16', Total = '1' 
+WHB Size = '17', Total = '1' 
+WHB Size = '8', Total = '1' 
+
+
+2018-01-07 10:27:11.368
+INFORMATION:	
+ Survey Date = '2011-06-01',  County Name = 'Blue Earth', Lake Name = 'Madison' 
+ Total WHB Greater Than 8 inches = '9' 
+ WHB Size = '13', Total = '1' 
+WHB Size = '16', Total = '2' 
+WHB Size = '17', Total = '2' 
+WHB Size = '8', Total = '1' 
+WHB Size = '9', Total = '3' 
+
+
+2018-01-07 10:27:22.276
+INFORMATION:	
+ Survey Date = '2011-08-01',  County Name = 'Carver', Lake Name = 'Wassermann' 
+ Total WHB Greater Than 8 inches = '1' 
+ WHB Size = '14', Total = '1' 
+
+
+2018-01-07 10:29:29.278
+INFORMATION:	
+ Survey Date = '2008-06-23',  County Name = 'Dakota', Lake Name = 'Byllesby' 
+ Total WHB Greater Than 8 inches = '29' 
+ WHB Size = '10', Total = '16' 
+WHB Size = '11', Total = '6' 
+WHB Size = '12', Total = '4' 
+WHB Size = '9', Total = '3' 
+
+
+2018-01-07 10:29:31.575
+INFORMATION:	
+ Survey Date = '2012-05-22',  County Name = 'Dakota', Lake Name = 'Rebecca' 
+ Total WHB Greater Than 8 inches = '1' 
+ WHB Size = '16', Total = '1' 
+
+
+2018-01-07 10:29:31.872
+INFORMATION:	
+ Survey Date = '2001-07-30',  County Name = 'Dakota', Lake Name = 'Spring' 
+ Total WHB Greater Than 8 inches = '17' 
+ WHB Size = '11', Total = '1' 
+WHB Size = '12', Total = '3' 
+WHB Size = '13', Total = '4' 
+WHB Size = '14', Total = '3' 
+WHB Size = '8', Total = '4' 
+WHB Size = '9', Total = '2' 
+
+
+2018-01-07 10:29:32.357
+INFORMATION:	
+ Survey Date = '2008-07-21',  County Name = 'Dakota', Lake Name = 'U.S. Lock & Dam #2 Pool' 
+ Total WHB Greater Than 8 inches = '43' 
+ WHB Size = '11', Total = '3' 
+WHB Size = '12', Total = '11' 
+WHB Size = '13', Total = '7' 
+WHB Size = '14', Total = '12' 
+WHB Size = '15', Total = '7' 
+WHB Size = '16', Total = '1' 
+WHB Size = '8', Total = '1' 
+WHB Size = '9', Total = '1' 
+
+
+2018-01-07 10:29:46.702
+INFORMATION:	
+ Survey Date = '2004-08-18',  County Name = 'Fillmore', Lake Name = 'Lanesboro Mill Pond' 
+ Total WHB Greater Than 8 inches = '1' 
+ WHB Size = '14', Total = '1' 
+
+
+2018-01-07 10:29:48.640
+INFORMATION:	
+ Survey Date = '2015-06-12',  County Name = 'Goodhue', Lake Name = 'Pepin' 
+ Total WHB Greater Than 8 inches = '65' 
+ WHB Size = '10', Total = '3' 
+WHB Size = '11', Total = '1' 
+WHB Size = '12', Total = '8' 
+WHB Size = '13', Total = '18' 
+WHB Size = '14', Total = '20' 
+WHB Size = '15', Total = '9' 
+WHB Size = '16', Total = '5' 
+WHB Size = '9', Total = '1' 
+
+
+2018-01-07 10:30:00.525
+INFORMATION:	
+ Survey Date = '1997-06-09',  County Name = 'Hennepin', Lake Name = 'Snelling' 
+ Total WHB Greater Than 8 inches = '3' 
+ WHB Size = '13', Total = '1' 
+WHB Size = '14', Total = '2' 
+
+
+2018-01-07 10:30:01.854
+INFORMATION:	
+ Survey Date = '2009-08-10',  County Name = 'Hennepin', Lake Name = 'U.S. Lock & Dam #1 Pool' 
+ Total WHB Greater Than 8 inches = '1' 
+ WHB Size = '10', Total = '1' 
+
+
+2018-01-07 10:31:18.592
+INFORMATION:	
+ Survey Date = '2016-06-13',  County Name = 'Jackson', Lake Name = 'Little Spirit' 
+ Total WHB Greater Than 8 inches = '3' 
+ WHB Size = '12', Total = '1' 
+WHB Size = '8', Total = '2' 
+
+
+2018-01-07 10:31:18.795
+INFORMATION:	
+ Survey Date = '2008-06-28',  County Name = 'Jackson', Lake Name = 'Loon' 
+ Total WHB Greater Than 8 inches = '2' 
+ WHB Size = '8', Total = '2' 
+
+
+2018-01-07 10:31:19.154
+INFORMATION:	
+ Survey Date = '2015-08-10',  County Name = 'Jackson', Lake Name = 'Round' 
+ Total WHB Greater Than 8 inches = '85' 
+ WHB Size = '10', Total = '5' 
+WHB Size = '11', Total = '42' 
+WHB Size = '12', Total = '12' 
+WHB Size = '13', Total = '9' 
+WHB Size = '14', Total = '4' 
+WHB Size = '15', Total = '8' 
+WHB Size = '16', Total = '5' 
+
+
+2018-01-07 10:31:20.279
+INFORMATION:	
+ Survey Date = '1997-07-07',  County Name = 'Kanabec', Lake Name = 'Fish' 
+ Total WHB Greater Than 8 inches = '10' 
+ WHB Size = '15', Total = '4' 
+WHB Size = '16', Total = '2' 
+WHB Size = '17', Total = '3' 
+WHB Size = '18', Total = '1' 
+
+
+2018-01-07 10:31:30.988
+INFORMATION:	
+ Survey Date = '2013-06-24',  County Name = 'Lac Qui Parle', Lake Name = 'Big Stone NWR East Pool' 
+ Total WHB Greater Than 8 inches = '1' 
+ WHB Size = '12', Total = '1' 
+
+
+2018-01-07 10:31:31.511
+INFORMATION:	
+ Survey Date = '2016-05-16',  County Name = 'Lac Qui Parle', Lake Name = 'Lac qui Parle' 
+ Total WHB Greater Than 8 inches = '1' 
+ WHB Size = '13', Total = '1' 
+
+
+2018-01-07 10:32:23.546
+INFORMATION:	
+ Survey Date = '2015-06-08',  County Name = 'Le Sueur', Lake Name = 'Dora' 
+ Total WHB Greater Than 8 inches = '3' 
+ WHB Size = '8', Total = '3' 
+
+
+2018-01-07 10:32:23.765
+INFORMATION:	
+ Survey Date = '2008-08-04',  County Name = 'Le Sueur', Lake Name = 'East Jefferson' 
+ Total WHB Greater Than 8 inches = '8' 
+ WHB Size = '13', Total = '3' 
+WHB Size = '14', Total = '3' 
+WHB Size = '15', Total = '2' 
+
+
+2018-01-07 10:32:24.343
+INFORMATION:	
+ Survey Date = '2006-07-10',  County Name = 'Le Sueur', Lake Name = 'Frances' 
+ Total WHB Greater Than 8 inches = '5' 
+ WHB Size = '16', Total = '2' 
+WHB Size = '17', Total = '3' 
+
+
+2018-01-07 10:32:24.546
+INFORMATION:	
+ Survey Date = '2013-06-17',  County Name = 'Le Sueur', Lake Name = 'German' 
+ Total WHB Greater Than 8 inches = '2' 
+ WHB Size = '14', Total = '1' 
+WHB Size = '15', Total = '1' 
+
+
+2018-01-07 10:32:24.796
+INFORMATION:	
+ Survey Date = '2014-07-07',  County Name = 'Le Sueur', Lake Name = 'Gorman' 
+ Total WHB Greater Than 8 inches = '6' 
+ WHB Size = '13', Total = '4' 
+WHB Size = '14', Total = '2' 
+
+
+2018-01-07 10:32:25.671
+INFORMATION:	
+ Survey Date = '2013-07-24',  County Name = 'Le Sueur', Lake Name = 'Middle Jefferson' 
+ Total WHB Greater Than 8 inches = '1' 
+ WHB Size = '15', Total = '1' 
+
+
+2018-01-07 10:32:25.952
+INFORMATION:	
+ Survey Date = '2009-07-13',  County Name = 'Le Sueur', Lake Name = 'Rays' 
+ Total WHB Greater Than 8 inches = '1' 
+ WHB Size = '15', Total = '1' 
+
+
+2018-01-07 10:32:26.421
+INFORMATION:	
+ Survey Date = '2014-06-17',  County Name = 'Le Sueur', Lake Name = 'Sabre' 
+ Total WHB Greater Than 8 inches = '7' 
+ WHB Size = '12', Total = '1' 
+WHB Size = '13', Total = '3' 
+WHB Size = '14', Total = '1' 
+WHB Size = '15', Total = '2' 
+
+
+2018-01-07 10:32:27.374
+INFORMATION:	
+ Survey Date = '2014-07-21',  County Name = 'Le Sueur', Lake Name = 'Tetonka' 
+ Total WHB Greater Than 8 inches = '20' 
+ WHB Size = '11', Total = '2' 
+WHB Size = '12', Total = '2' 
+WHB Size = '13', Total = '9' 
+WHB Size = '14', Total = '4' 
+WHB Size = '15', Total = '2' 
+WHB Size = '16', Total = '1' 
+
+
+2018-01-07 10:32:27.609
+INFORMATION:	
+ Survey Date = '2014-08-04',  County Name = 'Le Sueur', Lake Name = 'Upper Sakatah' 
+ Total WHB Greater Than 8 inches = '28' 
+ WHB Size = '12', Total = '4' 
+WHB Size = '13', Total = '12' 
+WHB Size = '14', Total = '8' 
+WHB Size = '15', Total = '3' 
+WHB Size = '8', Total = '1' 
+
+
+2018-01-07 10:32:28.281
+INFORMATION:	
+ Survey Date = '2013-08-05',  County Name = 'Le Sueur', Lake Name = 'West Jefferson' 
+ Total WHB Greater Than 8 inches = '6' 
+ WHB Size = '13', Total = '3' 
+WHB Size = '14', Total = '1' 
+WHB Size = '15', Total = '2' 
+
+
+2018-01-07 10:32:29.453
+INFORMATION:	
+ Survey Date = '2016-08-29',  County Name = 'Lincoln', Lake Name = 'Hendricks' 
+ Total WHB Greater Than 8 inches = '288' 
+ WHB Size = '11', Total = '2' 
+WHB Size = '12', Total = '2' 
+WHB Size = '13', Total = '8' 
+WHB Size = '14', Total = '22' 
+WHB Size = '15', Total = '4' 
+WHB Size = '8', Total = '178' 
+WHB Size = '9', Total = '72' 
+
+
+2018-01-07 10:32:38.660
+INFORMATION:	
+ Survey Date = '1998-09-08',  County Name = 'Martin', Lake Name = 'Iowa' 
+ Total WHB Greater Than 8 inches = '1' 
+ WHB Size = '15', Total = '1' 
+
+
+2018-01-07 10:32:39.348
+INFORMATION:	
+ Survey Date = '2016-08-15',  County Name = 'Martin', Lake Name = 'South Silver' 
+ Total WHB Greater Than 8 inches = '62' 
+ WHB Size = '10', Total = '28' 
+WHB Size = '13', Total = '1' 
+WHB Size = '14', Total = '2' 
+WHB Size = '17', Total = '1' 
+WHB Size = '8', Total = '6' 
+WHB Size = '9', Total = '24' 
+
+
+2018-01-07 10:32:52.630
+INFORMATION:	
+ Survey Date = '2003-07-21',  County Name = 'Mower', Lake Name = 'East Side' 
+ Total WHB Greater Than 8 inches = '1' 
+ WHB Size = '9', Total = '1' 
+
+
+2018-01-07 10:32:58.397
+INFORMATION:	
+ Survey Date = '2015-06-08',  County Name = 'Olmsted', Lake Name = 'Zumbro' 
+ Total WHB Greater Than 8 inches = '5' 
+ WHB Size = '11', Total = '2' 
+WHB Size = '12', Total = '2' 
+WHB Size = '17', Total = '1' 
+
+
+2018-01-07 10:33:24.824
+INFORMATION:	
+ Survey Date = '2010-06-28',  County Name = 'Pine', Lake Name = 'Cross' 
+ Total WHB Greater Than 8 inches = '1' 
+ WHB Size = '13', Total = '1' 
+
+
+2018-01-07 10:33:28.950
+INFORMATION:	
+ Survey Date = '2014-07-07',  County Name = 'Pine', Lake Name = 'Pokegama' 
+ Total WHB Greater Than 8 inches = '10' 
+ WHB Size = '11', Total = '1' 
+WHB Size = '13', Total = '2' 
+WHB Size = '15', Total = '2' 
+WHB Size = '16', Total = '4' 
+WHB Size = '17', Total = '1' 
+
+
+2018-01-07 10:33:34.341
+INFORMATION:	
+ Survey Date = '2016-06-06',  County Name = 'Pope', Lake Name = 'Emily' 
+ Total WHB Greater Than 8 inches = '1' 
+ WHB Size = '13', Total = '1' 
+
+
+2018-01-07 10:33:38.669
+INFORMATION:	
+ Survey Date = '1995-07-12',  County Name = 'Ramsey', Lake Name = 'Deep' 
+ Total WHB Greater Than 8 inches = '4' 
+ WHB Size = '8', Total = '4' 
+
+
+2018-01-07 10:33:38.934
+INFORMATION:	
+ Survey Date = '2014-07-07',  County Name = 'Ramsey', Lake Name = 'East Vadnais' 
+ Total WHB Greater Than 8 inches = '1' 
+ WHB Size = '17', Total = '1' 
+
+
+2018-01-07 10:33:41.888
+INFORMATION:	
+ Survey Date = '1999-06-14',  County Name = 'Ramsey', Lake Name = 'Phalen' 
+ Total WHB Greater Than 8 inches = '1' 
+ WHB Size = '11', Total = '1' 
+
+
+2018-01-07 10:33:42.325
+INFORMATION:	
+ Survey Date = '2001-07-16',  County Name = 'Ramsey', Lake Name = 'Pleasant' 
+ Total WHB Greater Than 8 inches = '204' 
+ WHB Size = '10', Total = '10' 
+WHB Size = '11', Total = '132' 
+WHB Size = '12', Total = '50' 
+WHB Size = '13', Total = '10' 
+WHB Size = '14', Total = '1' 
+WHB Size = '15', Total = '1' 
+
+
+2018-01-07 10:33:45.326
+INFORMATION:	
+ Survey Date = '2014-08-10',  County Name = 'Rice', Lake Name = 'Cannon' 
+ Total WHB Greater Than 8 inches = '73' 
+ WHB Size = '10', Total = '7' 
+WHB Size = '12', Total = '9' 
+WHB Size = '13', Total = '20' 
+WHB Size = '14', Total = '30' 
+WHB Size = '15', Total = '5' 
+WHB Size = '16', Total = '1' 
+WHB Size = '9', Total = '1' 
+
+
+2018-01-07 10:33:45.607
+INFORMATION:	
+ Survey Date = '2016-08-01',  County Name = 'Rice', Lake Name = 'Cedar' 
+ Total WHB Greater Than 8 inches = '4' 
+ WHB Size = '16', Total = '4' 
+
+
+2018-01-07 10:33:45.841
+INFORMATION:	
+ Survey Date = '2012-06-18',  County Name = 'Rice', Lake Name = 'Circle' 
+ Total WHB Greater Than 8 inches = '3' 
+ WHB Size = '14', Total = '3' 
+
+
+2018-01-07 10:33:46.185
+INFORMATION:	
+ Survey Date = '1993-06-15',  County Name = 'Rice', Lake Name = 'Dudley' 
+ Total WHB Greater Than 8 inches = '1' 
+ WHB Size = '15', Total = '1' 
+
+
+2018-01-07 10:33:46.388
+INFORMATION:	
+ Survey Date = '2001-07-23',  County Name = 'Rice', Lake Name = 'Fox' 
+ Total WHB Greater Than 8 inches = '100' 
+ WHB Size = '11', Total = '2' 
+WHB Size = '12', Total = '2' 
+WHB Size = '13', Total = '20' 
+WHB Size = '14', Total = '51' 
+WHB Size = '15', Total = '25' 
+
+
+2018-01-07 10:33:46.607
+INFORMATION:	
+ Survey Date = '2012-08-06',  County Name = 'Rice', Lake Name = 'French' 
+ Total WHB Greater Than 8 inches = '2' 
+ WHB Size = '15', Total = '1' 
+WHB Size = '16', Total = '1' 
+
+
+2018-01-07 10:33:46.982
+INFORMATION:	
+ Survey Date = '2014-07-28',  County Name = 'Rice', Lake Name = 'Lower Sakatah' 
+ Total WHB Greater Than 8 inches = '11' 
+ WHB Size = '14', Total = '7' 
+WHB Size = '15', Total = '3' 
+WHB Size = '16', Total = '1' 
+
+
+2018-01-07 10:33:47.310
+INFORMATION:	
+ Survey Date = '2016-07-25',  County Name = 'Rice', Lake Name = 'Mazaska' 
+ Total WHB Greater Than 8 inches = '31' 
+ WHB Size = '14', Total = '3' 
+WHB Size = '15', Total = '15' 
+WHB Size = '16', Total = '9' 
+WHB Size = '17', Total = '2' 
+WHB Size = '18', Total = '1' 
+WHB Size = '9', Total = '1' 
+
+
+2018-01-07 10:33:47.842
+INFORMATION:	
+ Survey Date = '2013-07-08',  County Name = 'Rice', Lake Name = 'Roberds' 
+ Total WHB Greater Than 8 inches = '6' 
+ WHB Size = '13', Total = '1' 
+WHB Size = '15', Total = '2' 
+WHB Size = '16', Total = '2' 
+WHB Size = '17', Total = '1' 
+
+
+2018-01-07 10:33:48.060
+INFORMATION:	
+ Survey Date = '2012-07-09',  County Name = 'Rice', Lake Name = 'Shields' 
+ Total WHB Greater Than 8 inches = '1' 
+ WHB Size = '14', Total = '1' 
+
+
+2018-01-07 10:33:48.529
+INFORMATION:	
+ Survey Date = '2014-08-18',  County Name = 'Rice', Lake Name = 'Wells' 
+ Total WHB Greater Than 8 inches = '41' 
+ WHB Size = '10', Total = '12' 
+WHB Size = '11', Total = '1' 
+WHB Size = '13', Total = '10' 
+WHB Size = '14', Total = '9' 
+WHB Size = '15', Total = '6' 
+WHB Size = '16', Total = '1' 
+WHB Size = '17', Total = '1' 
+WHB Size = '9', Total = '1' 
+
+
+2018-01-07 10:33:50.904
+INFORMATION:	
+ Survey Date = '2015-06-01',  County Name = 'Scott', Lake Name = 'Lower Prior' 
+ Total WHB Greater Than 8 inches = '1' 
+ WHB Size = '16', Total = '1' 
+
+
+2018-01-07 10:33:52.248
+INFORMATION:	
+ Survey Date = '2015-05-19',  County Name = 'Scott', Lake Name = 'Spring' 
+ Total WHB Greater Than 8 inches = '1' 
+ WHB Size = '17', Total = '1' 
+
+
+2018-01-07 10:33:53.217
+INFORMATION:	
+ Survey Date = '2015-07-21',  County Name = 'Scott', Lake Name = 'Upper Prior' 
+ Total WHB Greater Than 8 inches = '2' 
+ WHB Size = '14', Total = '1' 
+WHB Size = '16', Total = '1' 
+
+
+2018-01-07 10:35:21.434
+INFORMATION:	
+ Survey Date = '2015-06-08',  County Name = 'Traverse', Lake Name = 'Mud' 
+ Total WHB Greater Than 8 inches = '9' 
+ WHB Size = '11', Total = '1' 
+WHB Size = '14', Total = '4' 
+WHB Size = '15', Total = '2' 
+WHB Size = '16', Total = '2' 
+
+
+2018-01-07 10:35:21.950
+INFORMATION:	
+ Survey Date = '2016-09-19',  County Name = 'Traverse', Lake Name = 'Traverse' 
+ Total WHB Greater Than 8 inches = '58' 
+ WHB Size = '10', Total = '9' 
+WHB Size = '11', Total = '14' 
+WHB Size = '12', Total = '1' 
+WHB Size = '13', Total = '5' 
+WHB Size = '14', Total = '7' 
+WHB Size = '15', Total = '16' 
+WHB Size = '16', Total = '6' 
+
+
+2018-01-07 10:35:23.278
+INFORMATION:	
+ Survey Date = '1993-06-01',  County Name = 'Waseca', Lake Name = 'Elysian (Main Lake)' 
+ Total WHB Greater Than 8 inches = '2' 
+ WHB Size = '14', Total = '1' 
+WHB Size = '15', Total = '1' 
+
+
+2018-01-07 10:35:24.310
+INFORMATION:	
+ Survey Date = '2006-06-12',  County Name = 'Washington', Lake Name = 'Alice' 
+ Total WHB Greater Than 8 inches = '2' 
+ WHB Size = '13', Total = '2' 
+
+
+2018-01-07 10:35:29.748
+INFORMATION:	
+ Survey Date = '2014-09-22',  County Name = 'Washington', Lake Name = 'St. Croix' 
+ Total WHB Greater Than 8 inches = '24' 
+ WHB Size = '10', Total = '3' 
+WHB Size = '11', Total = '2' 
+WHB Size = '12', Total = '2' 
+WHB Size = '13', Total = '3' 
+WHB Size = '14', Total = '5' 
+WHB Size = '15', Total = '5' 
+WHB Size = '16', Total = '1' 
+WHB Size = '8', Total = '3' 
+
+
+2018-01-07 10:35:32.545
+INFORMATION:	
+ Survey Date = '2016-05-26',  County Name = 'Winona', Lake Name = 'Winona' 
+ Total WHB Greater Than 8 inches = '2' 
+ WHB Size = '15', Total = '1' 
+WHB Size = '16', Total = '1' 
+
+
+2018-01-07 10:35:36.373
+INFORMATION:	
+ Survey Date = '2011-07-25',  County Name = 'Wright', Lake Name = 'Dean' 
+ Total WHB Greater Than 8 inches = '1' 
+ WHB Size = '16', Total = '1' 
+
+
+2018-01-07 10:35:49.558
+INFORMATION:	
+ Survey Date = '2016-05-31',  County Name = 'Yellow Medicine', Lake Name = 'Del Clark' 
+ Total WHB Greater Than 8 inches = '1' 
+ WHB Size = '10', Total = '1' 
+
+
+2018-01-07 10:35:50.402
+SUCCESS:	Test passed
