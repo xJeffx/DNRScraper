@@ -21,6 +21,74 @@ namespace Tests
         /// Get single product as XML
         /// </summary>
         [TestMethod]
+        public void GetBullheadLastestLakesJSON()
+        {
+            CountyWithLakesAndSurvey countiesWithLakes =
+                JsonConvert.DeserializeObject<CountyWithLakesAndSurvey>(
+                    File.ReadAllText(@"C:\DNRLogs\LakesWithSurveys.json"));
+
+            foreach (var lake in countiesWithLakes.CountyLakes)
+            {
+                //// Get all surveyes
+                this.WebServiceWrapper = new HttpClientWrapper(new Uri("http://maps2.dnr.state.mn.us"));
+                var lakeSurveyResult = this.WebServiceWrapper.Get(
+                    $"/cgi-bin/lakefinder/detail.cgi?type=lake_survey&callback=foo&id={lake.LakeId}&_=1510019564259",
+                    "text/plain",
+                    false);
+
+                var lakeSurveyJsonString = lakeSurveyResult.Remove(0, 4);
+                lakeSurveyJsonString = Regex.Replace(lakeSurveyJsonString, @"\t|\n|\r", "");
+                lakeSurveyJsonString = lakeSurveyJsonString.Remove(lakeSurveyJsonString.Length - 1, 1);
+
+                var lakesWithSurvey = JsonConvert.DeserializeObject<LakesSurveyModel>(lakeSurveyJsonString);
+
+                if (lakesWithSurvey.result != null && lakesWithSurvey.result.surveys != null)
+                {
+                    //// Specific Fish Code
+                    //// Specific Fish Code
+                    var survey = lakesWithSurvey.result.surveys.LastOrDefault(n => n.lengths != null && n.lengths.BLB != null);
+
+                    if (survey != null)
+                    {
+                        var total = 0;
+                        var totalList = new Dictionary<int, int>();
+
+                        //// Add up
+                        foreach (var length in survey.lengths.BLB.fishCount)
+                        {
+                            if (length[0] >= 0)
+                            {
+                                total = total + length[1];
+                                totalList.Add(length[0], length[1]);
+                            }
+                        }
+
+                        //// Print out
+                        if (total > 0)
+                        {
+                            var logString =
+                                $"{System.Environment.NewLine} Survey Date = '{survey.surveyDate}',  County Name = '{lake.CountyName}', Lake Name = '{lake.LakeName}' {System.Environment.NewLine}";
+                            logString =
+                                $"{logString} Total Bullhead Greater Than 0 inches = '{total}' {System.Environment.NewLine}";
+
+                            var sizes = "";
+                            foreach (var size in totalList)
+                            {
+                                sizes =
+                                    $"{sizes}Bullhead Size = '{size.Key}', Total = '{size.Value}' {System.Environment.NewLine}";
+                            }
+
+                            this.TestObject.Log.LogMessage($"{logString} {sizes}");
+                        }
+                    }
+                }
+            }
+        }
+
+        /// <summary>
+        /// Get single product as XML
+        /// </summary>
+        [TestMethod]
         public void GetCrappieLastestLakesJSON()
         {
             CountyWithLakesAndSurvey countiesWithLakes =
