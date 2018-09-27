@@ -2091,6 +2091,12 @@
     {
       "CountyName": "Carlton",
       "CountyId": "9",
+      "LakeName": "Forbay",
+      "LakeId": "09000200"
+    },
+    {
+      "CountyName": "Carlton",
+      "CountyId": "9",
       "LakeName": "Graham",
       "LakeId": "09000300"
     },
@@ -2493,6 +2499,12 @@
     {
       "CountyName": "Cass",
       "CountyId": "11",
+      "LakeName": "Beauty",
+      "LakeId": "11062400"
+    },
+    {
+      "CountyName": "Cass",
+      "CountyId": "11",
       "LakeName": "Beuber",
       "LakeId": "11035300"
     },
@@ -2645,6 +2657,18 @@
       "CountyId": "11",
       "LakeName": "Cub",
       "LakeId": "11039900"
+    },
+    {
+      "CountyName": "Cass",
+      "CountyId": "11",
+      "LakeName": "Dade",
+      "LakeId": "11021400"
+    },
+    {
+      "CountyName": "Cass",
+      "CountyId": "11",
+      "LakeName": "Dead Horse",
+      "LakeId": "11032900"
     },
     {
       "CountyName": "Cass",
@@ -6861,6 +6885,12 @@
     {
       "CountyName": "Crow Wing",
       "CountyId": "18",
+      "LakeName": "Command",
+      "LakeId": "18026500"
+    },
+    {
+      "CountyName": "Crow Wing",
+      "CountyId": "18",
       "LakeName": "Crooked",
       "LakeId": "18004100"
     },
@@ -7839,6 +7869,12 @@
     {
       "CountyName": "Crow Wing",
       "CountyId": "18",
+      "LakeName": "Wood",
+      "LakeId": "18022200"
+    },
+    {
+      "CountyName": "Crow Wing",
+      "CountyId": "18",
       "LakeName": "Young",
       "LakeId": "18025200"
     },
@@ -8487,6 +8523,12 @@
     {
       "CountyName": "Freeborn",
       "CountyId": "24",
+      "LakeName": "State Line",
+      "LakeId": "24003000"
+    },
+    {
+      "CountyName": "Freeborn",
+      "CountyId": "24",
       "LakeName": "White",
       "LakeId": "24002400"
     },
@@ -8607,6 +8649,12 @@
     {
       "CountyName": "Hennepin",
       "CountyId": "27",
+      "LakeName": "Bde Maka Ska",
+      "LakeId": "27003100"
+    },
+    {
+      "CountyName": "Hennepin",
+      "CountyId": "27",
       "LakeName": "Birch Island",
       "LakeId": "27008100"
     },
@@ -8633,12 +8681,6 @@
       "CountyId": "27",
       "LakeName": "Bush",
       "LakeId": "27004700"
-    },
-    {
-      "CountyName": "Hennepin",
-      "CountyId": "27",
-      "LakeName": "Calhoun",
-      "LakeId": "27003100"
     },
     {
       "CountyName": "Hennepin",
@@ -9567,6 +9609,12 @@
     {
       "CountyName": "Hubbard",
       "CountyId": "29",
+      "LakeName": "Ojibway",
+      "LakeId": "29014900"
+    },
+    {
+      "CountyName": "Hubbard",
+      "CountyId": "29",
       "LakeName": "Owl",
       "LakeId": "29007300"
     },
@@ -9827,6 +9875,12 @@
       "CountyId": "30",
       "LakeName": "North Stanchfield",
       "LakeId": "30014300"
+    },
+    {
+      "CountyName": "Isanti",
+      "CountyId": "30",
+      "LakeName": "Seventeen",
+      "LakeId": "30005900"
     },
     {
       "CountyName": "Isanti",
@@ -14019,6 +14073,12 @@
     {
       "CountyName": "Lake",
       "CountyId": "38",
+      "LakeName": "Outlaw",
+      "LakeId": "38004300"
+    },
+    {
+      "CountyName": "Lake",
+      "CountyId": "38",
       "LakeName": "Paco",
       "LakeId": "38019000"
     },
@@ -15851,6 +15911,12 @@
       "CountyId": "55",
       "LakeName": "Foster-Arend",
       "LakeId": "55001900"
+    },
+    {
+      "CountyName": "Olmsted",
+      "CountyId": "55",
+      "LakeName": "Kalmar Reservoir 7",
+      "LakeId": "55006400"
     },
     {
       "CountyName": "Olmsted",
@@ -18065,6 +18131,12 @@
       "CountyId": "71",
       "LakeName": "West Hunter",
       "LakeId": "71002200"
+    },
+    {
+      "CountyName": "Sibley",
+      "CountyId": "72",
+      "LakeName": "Beatty",
+      "LakeId": "72004100"
     },
     {
       "CountyName": "Sibley",
