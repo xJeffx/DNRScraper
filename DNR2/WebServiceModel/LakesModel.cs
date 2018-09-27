@@ -3,13 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 
 namespace WebServiceModel
 {
     public class LakesModel
     {
         public string status { get; set; }
+
+        [JsonProperty(Required = Required.AllowNull)]
         public Result[] results { get; set; }
+        
         public string message { get; set; }
     }
 

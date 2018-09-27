@@ -84,8 +84,7 @@ namespace Tests
                 }
             }
         }
-
-
+        
         /// <summary>
         /// Get single product as XML
         /// </summary>
@@ -153,8 +152,7 @@ namespace Tests
                 }
             }
         }
-
-
+        
         /// <summary>
         /// Get single product as XML
         /// </summary>
@@ -222,8 +220,7 @@ namespace Tests
                 }
             }
         }
-
-
+        
         /// <summary>
         /// Get single product as XML
         /// </summary>
@@ -291,8 +288,7 @@ namespace Tests
                 }
             }
         }
-
-
+        
         /// <summary>
         /// Get single product as XML
         /// </summary>
@@ -360,8 +356,7 @@ namespace Tests
                 }
             }
         }
-
-
+        
         /// <summary>
         /// Get single product as XML
         /// </summary>
@@ -429,9 +424,7 @@ namespace Tests
                 }
             }
         }
-
-
-
+        
         /// <summary>
         /// Get single product as XML
         /// </summary>
