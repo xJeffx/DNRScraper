@@ -1,4 +1,5 @@
-﻿using Magenic.MaqsFramework.BaseWebServiceTest;
+﻿using System.Globalization;
+using Magenic.MaqsFramework.BaseWebServiceTest;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using WebServiceModel;
 
@@ -692,6 +693,65 @@ namespace Tests
 
                             this.TestObject.Log.LogMessage($"{logString} {sizes}");
                         }
+                    }
+                }
+            }
+        }
+
+        /// <summary>
+        /// Get single product as XML
+        /// </summary>
+        [TestMethod]
+        public void GetAnyPikeLastestLakesJSON()
+        {
+            CountyWithLakesAndSurvey countiesWithLakes =
+                JsonConvert.DeserializeObject<CountyWithLakesAndSurvey>(
+                    File.ReadAllText(@"C:\DNRLogs\LakesWithSurveys.json"));
+
+            foreach (var lake in countiesWithLakes.CountyLakes)
+            {
+                //// Get all surveyes
+                this.WebServiceWrapper = new HttpClientWrapper(new Uri("http://maps2.dnr.state.mn.us"));
+                
+                var lakeSurveyResult = this.WebServiceWrapper.Get(
+                    $"/cgi-bin/lakefinder/detail.cgi?type=lake_survey&callback=foo&id={lake.LakeId}&_=1510019564259",
+                    "text/plain",
+                    false);
+
+                var lakeSurveyJsonString = lakeSurveyResult.Remove(0, 4);
+                lakeSurveyJsonString = Regex.Replace(lakeSurveyJsonString, @"\t|\n|\r", "");
+                lakeSurveyJsonString = lakeSurveyJsonString.Remove(lakeSurveyJsonString.Length - 1, 1);
+
+                var lakesWithSurvey = JsonConvert.DeserializeObject<LakesSurveyModel>(lakeSurveyJsonString);
+
+                if (lakesWithSurvey.result != null && lakesWithSurvey.result.surveys != null)
+                {
+                    var latestDate = new DateTime(1900, 1, 1);
+                    Survey survey = null;
+                    //// Specific Fish Code
+                    foreach (var surv in lakesWithSurvey.result.surveys)
+                    {
+                        var date = DateTime.ParseExact(surv.surveyDate, "yyyy-MM-dd", CultureInfo.InvariantCulture);
+                        if (date > latestDate)
+                        {
+                            latestDate = date;
+                            survey = surv;
+                        }
+                    }
+                    //var survey = lakesWithSurvey.result.surveys.LastOrDefault(n => n.fishCatchSummaries.Any(m => m.species.Equals("NOP", StringComparison.InvariantCultureIgnoreCase)));
+
+                    if (survey != null)
+                    {
+                        //// Print out
+                        var surveyString = $"https://www.dnr.state.mn.us/lakefind/showreport.html?downum={lake.LakeId}";
+                        var logString =
+                            $"{System.Environment.NewLine} Survey Date = '{survey.surveyDate}',  County Name = '{lake.CountyName}', Lake Name = '{lake.LakeName}' {System.Environment.NewLine}";
+                        logString =
+                            $"{logString} Survey Link = '{surveyString}' {System.Environment.NewLine}";
+
+
+                        this.TestObject.Log.LogMessage($"{logString}");
+                        
                     }
                 }
             }
