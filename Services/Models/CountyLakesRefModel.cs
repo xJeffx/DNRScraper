@@ -3,10 +3,10 @@ namespace Services.Models
 {
     public class CountyLakesRefModel
     {
-        public List<CountyLakeRef> CountyLakes { get; set; }
+        public List<CountyLake> CountyLakes { get; set; }
     }
 
-    public class CountyLakeRef
+    public class CountyLake
     {
         public string CountyName { get; set; }
         public string CountyId { get; set; }

@@ -69,7 +69,7 @@ namespace Services.Models
         public BOF BOF { get; set; }
         public BRB BRB { get; set; }
         public IOD IOD { get; set; }
-        public BKS BKS { get; set; }
+        public BKT BKT { get; set; }
         public BNM BNM { get; set; }
         public MTS MTS { get; set; }
         public GOS GOS { get; set; }
@@ -78,6 +78,8 @@ namespace Services.Models
         public BLB BLB { get; set; }
         public LND LND { get; set; }
         public GSF GSF { get; set; }
+
+        public LTS LTS { get; set; }        
 
         /// <summary>
         /// Rainbow Trout
@@ -103,272 +105,216 @@ namespace Services.Models
         /// Lake Trout
         /// </summary>
         public WHB WHB { get; set; }
+
+        public CCF CCF { get; set; }
+
+        public WHC WHC { get; set; }
+        public BIB BIB { get; set; }
+
+        public TMUE TMUE { get; set; }
+        public EMS EMS { get; set; }
+        public LNG LNG { get; set; }
+        public FCF FCF { get; set; }
+
+        public SAR SAR { get; set; }
+
+        public GIS GIS { get; set; }
+        public HBS HBS { get; set; }
+
+    }
+    public class GIS : Species
+    {
+    }
+    public class SAR : Species
+    {
     }
 
-    public class SMB
+    public class FCF : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class WHB
+    public class LNG : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
+    }
+    public class EMS : Species
+    {
     }
 
-    public class RBT
+
+    public class TMUE : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class BNT
+    public class BIB : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class SPT
+    public class WHC : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class LAT
+    public class CCF : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class LMB
+    public class SMB : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
+    }
+    public class HBS : Species
+    {
+    }
+    
+
+    public class WHB : Species
+    {
     }
 
-    public class TRP
+    public class RBT : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class YEP
-    {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
+    public class LTS : Species
+    { 
     }
 
-    public class BLG
+    public class BNT : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class WAE
+    public class SPT : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class NOP
+    public class LAT : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class LGP
+    public class LMB : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class BUB
+    public class TRP : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class MMS
+    public class YEP : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class TLC
+    public class BLG : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class RKB
+    public class WAE : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class SPO
+    public class NOP : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class YEB
+    public class LGP : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class JND
+    public class BUB : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class WTS
+    public class MMS : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class MUE
+    public class TLC : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class BLC
+    public class RKB : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class CAP
+    public class SPO : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class HSF
+    public class YEB : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class PMK
+    public class JND : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class BOF
+    public class WTS : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class BRB
+    public class MUE : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class IOD
+    public class BLC : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class BKS
+    public class CAP : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class BNM
+    public class HSF : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class MTS
+    public class PMK : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class GOS
+    public class BOF : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class SHR
+    public class BRB : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class TPM
+    public class IOD : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class BLB
+    public class BKT : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class LND
+    public class BNM : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
     }
 
-    public class GSF
+    public class MTS : Species
     {
-        public int minimum_length { get; set; }
-        public int[][] fishCount { get; set; }
-        public int maximum_length { get; set; }
+    }
+
+    public class GOS : Species
+    {
+    }
+
+    public class SHR : Species
+    {
+    }
+
+    public class TPM : Species
+    {
+    }
+
+    public class BLB : Species
+    {
+    }
+
+    public class LND : Species
+    {
+    }
+
+    public class GSF : Species
+    {
     }
 
     public class Fishcatchsummary

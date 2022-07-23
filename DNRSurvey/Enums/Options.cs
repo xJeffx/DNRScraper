@@ -1,7 +1,7 @@
 ﻿using CommandLine;
 using CommandLine.Text;
 
-namespace DNRSurvey
+namespace DNRSurvey.Enums
 {
     public class Options
     {
@@ -12,9 +12,9 @@ namespace DNRSurvey
         public string? Species { get; set; }
 
         [Option('m', "min", Required = false, HelpText = "Minimum size of the fish species")]
-        public string? MinSize { get; set; }
+        public int MinSize { get; set; }
 
-        [Option('p', "savepath", Required = false, HelpText = "Path to save the log")]
+        [Option('p', "savepath", Required = false, HelpText = "Path to save the the results")]
         public string? SavePath { get; set; }
 
         [Option('c', "county", Required = false, HelpText = "Focus on one county")]
