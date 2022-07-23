@@ -10,14 +10,12 @@ namespace Services
         public static IHttpClientBuilder AddCountyListClient(this IServiceCollection services, Action<HttpClient> configureClient) =>
             services.AddHttpClient<ICGIBinClient, CGIBinClient>((httpClient) =>
             {
-                //CGIBinClientFactory.ConfigureHttpClientCore(httpClient);
                 configureClient(httpClient);
             });
 
         public static IHttpClientBuilder AddLakeFinderClient(this IServiceCollection services, Action<HttpClient> configureClient) =>
             services.AddHttpClient<ILakeFinderClient, LakeFinderClient>((httpClient) =>
             {
-                //LakeFinderClientFactory.ConfigureHttpClientCore(httpClient);
                 configureClient(httpClient);
             });
     }

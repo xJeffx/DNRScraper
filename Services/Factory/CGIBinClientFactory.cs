@@ -12,20 +12,7 @@ namespace Services.Factory
                 BaseAddress = new Uri(host)
             };
 
-            //ConfigureHttpClient(httpClient, host);
-
             return new CGIBinClient(httpClient);
         }
-
-        //internal static void ConfigureHttpClient(HttpClient httpClient)
-        //{
-        //    ConfigureHttpClientCore(httpClient);
-        //}
-
-        //internal static void ConfigureHttpClientCore(HttpClient httpClient)
-        //{
-        //    httpClient.DefaultRequestHeaders.Accept.Clear();
-        //    //httpClient.DefaultRequestHeaders.Accept.Add(new("text/plain"));
-        //}
     }
 }
