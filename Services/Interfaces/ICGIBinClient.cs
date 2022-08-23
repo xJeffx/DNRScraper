@@ -4,7 +4,7 @@ using Services.Models;
 
 namespace Services.Interfaces
 {
-    public interface ICGIBinClient
+    public interface ICgiBinClient
     {      
         Task<MNCountiesModel> GetCountyListAsync();
     }

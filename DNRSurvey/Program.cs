@@ -18,7 +18,7 @@ Parser.Default.ParseArguments<Options>(args).WithParsed(o =>
                    {
                        // Set file paths
                        pathToSurvey = $"{(string.IsNullOrEmpty(o.LakesWithSurveyPath) ? defaultPath : o.LakesWithSurveyPath)}" + @"\LakesWithSurveys.json";
-                       pathToResults = $"{(string.IsNullOrEmpty(o.SavePath) ? defaultPath : o.SavePath)}" + $"\\{o.Species.Replace(" ", "")}_Survey_{DateTime.Now.ToString("MM_dd_yyyy_HHmmss")}.txt";
+                       pathToResults = $"{(string.IsNullOrEmpty(o.SavePath) ? defaultPath : o.SavePath)}" + $"\\{o.Species?.Replace(" ", "")}_Survey_{DateTime.Now:MM_dd_yyyy_HHmmss}.txt";
 
                        var lakeFinderClient = provider.GetRequiredService<ILakeFinderClient>();
 
@@ -33,7 +33,7 @@ Parser.Default.ParseArguments<Options>(args).WithParsed(o =>
                        CountyLakesRefModel countyLakes = JSONHelper.ConvertFromJson<CountyLakesRefModel>(pathToSurvey);
 
                        // Get SpeciesEnum, get the enum from the string
-                       var speciesEnum = SpeciesHelper.GetSpeciesEnum(o.Species);
+                       var speciesEnum = SpeciesHelper.GetSpeciesEnum(o?.Species);
 
                        // Get latest survey with data and build file result
                        var resultsBuilder = new ResultsFileBuilderHelper();

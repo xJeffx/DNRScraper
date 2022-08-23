@@ -3,16 +3,16 @@ using Services.Interfaces;
 
 namespace Services.Factory
 {
-    public static class CGIBinClientFactory
+    public static class CgiBinClientFactory
     {
-        public static ICGIBinClient Create(string host)
+        public static ICgiBinClient Create(string host)
         {
             var httpClient = new HttpClient()
             {
                 BaseAddress = new Uri(host)
             };
 
-            return new CGIBinClient(httpClient);
+            return new CgiBinClient(httpClient);
         }
     }
 }

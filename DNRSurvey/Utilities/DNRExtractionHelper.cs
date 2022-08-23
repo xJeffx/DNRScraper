@@ -22,7 +22,7 @@ namespace DNRSurvey.Utilities
             var lakeFinderClient = provider.GetRequiredService<ILakeFinderClient>();
 
             // Get all counties so we can find which have lake surveys
-            var countyList = provider.GetRequiredService<ICGIBinClient>().GetCountyListAsync().GetAwaiter().GetResult();
+            var countyList = provider.GetRequiredService<ICgiBinClient>().GetCountyListAsync().GetAwaiter().GetResult();
 
             Console.WriteLine($"Extracting data...");
 

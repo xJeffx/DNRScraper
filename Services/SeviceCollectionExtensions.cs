@@ -8,7 +8,7 @@ namespace Services
     public static class SeviceCollectionExtensions
     {
         public static IHttpClientBuilder AddCountyListClient(this IServiceCollection services, Action<HttpClient> configureClient) =>
-            services.AddHttpClient<ICGIBinClient, CGIBinClient>((httpClient) =>
+            services.AddHttpClient<ICgiBinClient, CgiBinClient>((httpClient) =>
             {
                 configureClient(httpClient);
             });
