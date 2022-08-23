@@ -6,6 +6,7 @@ namespace DNRSurvey.Utilities
 {
     public static class SurveyHelper
     {
+
         private static Species ConvertToSpeciesLength(FishSurvey survey, SpeciesEnum species)
         {
             //poor, just use a switch
@@ -82,20 +83,17 @@ namespace DNRSurvey.Utilities
         {
             // Get the latest survey so we can see the latest information
             FishSurvey latestSurvey = null;
-            if (surveys != null && surveys.Count() > 0)
+            if (surveys?.Count() > 0)
             {           
                 foreach (var currentSurvey in surveys)
                 {
                     // Check if there are any lengths for the species
-                    if(ConvertToSpeciesLength(currentSurvey, speciesEnum) == null)
+                    if (ConvertToSpeciesLength(currentSurvey, speciesEnum) == null)
                     {
                         continue;
                     }
 
-                    if(latestSurvey == null)
-                    {
-                        latestSurvey = currentSurvey;
-                    }
+                    latestSurvey ??= currentSurvey;
 
                     var oldSurveyDate = DateTime.Parse(latestSurvey.surveyDate);
                     var currentSurveyDate = DateTime.Parse(currentSurvey.surveyDate);
@@ -105,18 +103,16 @@ namespace DNRSurvey.Utilities
                         latestSurvey = currentSurvey;
                     }
                 }
-                //return surveys.LastOrDefault(n => n.lengths != null && ConvertToSpeciesLength(n, speciesEnum) != null);
-
             }
 
             return latestSurvey;
         }
 
-        /**
-         * Get all the lengths available for a fish species in a survey
-         * 
-         *
-         **/
+        /// <summary>
+        /// Get all the lengths available for a fish species in a survey
+        /// </summary>
+        /// <param name="fishLength">The length data</param>
+        /// <returns></returns>
         public static Dictionary<int, int> GetSpeciesLengths(Species fishLength)
         {    
             //Key is the size in inches, value is the total number of fish of that size

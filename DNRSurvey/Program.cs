@@ -5,47 +5,29 @@ using DNRSurvey.Utilities;
 using Microsoft.Extensions.DependencyInjection;
 using Services.Interfaces;
 using Services.Models;
+using System.Reflection;
 
 Console.WriteLine("Hello, Welcome to DNR Survey!");
 
 var provider = Startup.Configure();
+var defaultPath = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
 var pathToSurvey = "";
 var pathToResults = "";
-Parser.Default.ParseArguments<Options>(args)
-                   .WithParsed<Options>(async o =>
+
+Parser.Default.ParseArguments<Options>(args).WithParsed(o =>
                    {
-                       pathToSurvey = string.IsNullOrEmpty(o.LakesWithSurveyPath) ? @"C:\DNRResult\LakesWithSurveys.json" : o.LakesWithSurveyPath;
-                       pathToResults = $"{(string.IsNullOrEmpty(o.SavePath) ? @"C:\DNRResult" : o.SavePath)}" + $"\\{o.Species.Replace(" ", "")}_Survey_{DateTime.Now.ToString("MM_dd_yyyy_HHmmss")}.txt";
+                       // Set file paths
+                       pathToSurvey = $"{(string.IsNullOrEmpty(o.LakesWithSurveyPath) ? defaultPath : o.LakesWithSurveyPath)}" + @"\LakesWithSurveys.json";
+                       pathToResults = $"{(string.IsNullOrEmpty(o.SavePath) ? defaultPath : o.SavePath)}" + $"\\{o.Species.Replace(" ", "")}_Survey_{DateTime.Now.ToString("MM_dd_yyyy_HHmmss")}.txt";
 
                        var lakeFinderClient = provider.GetRequiredService<ILakeFinderClient>();
 
-                       // No previous survey was ran, running it all to generate the lakes with survey
+                       // Check if the path to survey exists, if it does not exists then extract and transform the data
                        if (!FileHelper.FileExists(pathToSurvey))
                        {
-
-                           var countiesWithSurveys = new CountyLakesRefModel() { CountyLakes = new List<CountyLake>() };
-
-                           // Get all counties so we can find which have lake surveys
-                           var countyList = provider.GetRequiredService<ICGIBinClient>().GetCountyListAsync().GetAwaiter().GetResult();
-
-
-                           // Get all county lakes with surveys
-                           foreach (var county in countyList.counties)
-                           {
-                               var lakes = lakeFinderClient.GetLakesAsync(county.id).GetAwaiter().GetResult();
-                               var lakesWithSurveys = LakesHelper.GetOnlyLakesWithSurveys(lakeFinderClient, county, lakes);
-                               countiesWithSurveys.CountyLakes.AddRange(lakesWithSurveys);
-                           }
-
-                           // write to json
-                           FileHelper.WriteJSONToFile(countiesWithSurveys, pathToSurvey);
-
-                       }
-
-                       if (!string.IsNullOrEmpty(o.Species))
-                       {
-                           Console.WriteLine($"You requested Species is '{o.Species}'");
-                       }
+                           Console.WriteLine($"No previous survey was ran. Running Extraction and filtering process to get only lakes with surveys...");
+                           DnrExtractionHelper.ExtractJsonData(provider, pathToSurvey);                          
+                       }                       
 
                        // Get the county lakes reference model from saved data json file
                        CountyLakesRefModel countyLakes = JSONHelper.ConvertFromJson<CountyLakesRefModel>(pathToSurvey);
@@ -60,12 +42,6 @@ Parser.Default.ParseArguments<Options>(args)
                        {
                            // Get all surveys for the lake
                            var lakeSurveys = LakesHelper.GetLakesSurveyDataAsync(lakeFinderClient, lake.LakeId).GetAwaiter().GetResult();
-
-                           // Get the latest survey with species length data
-                           if (lake.LakeId.Equals("01006200"))
-                           {
-                               Console.WriteLine($"Found Big Sandy");
-                           }
 
                            var latestSurvey = SurveyHelper.GetLastestSurveyWithSpeciesLengthData(lakeSurveys.result.surveys, speciesEnum);
 
