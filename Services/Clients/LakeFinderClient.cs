@@ -7,7 +7,7 @@ namespace Services.Clients
 {
     public class LakeFinderClient : ILakeFinderClient, IAsyncDisposable
     {
-        private HttpClient httpClient;
+        private readonly HttpClient httpClient;
 
         public LakeFinderClient(HttpClient httpClient)
         {
@@ -23,15 +23,11 @@ namespace Services.Clients
             httpResponse.EnsureSuccessStatusCode();
 
             //remove junk json
-            var jsonString = (await httpResponse.Content.ReadAsStringAsync()).Remove(0, 4);
+            var jsonString = FormatReponse(await httpResponse.Content.ReadAsStringAsync());
+           
+           
 
-            jsonString = Regex.Replace(jsonString, @"\t|\n|\r", "");
-            jsonString = Regex.Replace(jsonString, @";", "");
-
-            jsonString = jsonString.Remove(jsonString.Length - 1, 1);
-
-            var countyLakes = JsonConvert.DeserializeObject<AllLakesPerCountyModel>(jsonString);
-            return countyLakes;
+            return JsonConvert.DeserializeObject<AllLakesPerCountyModel>(jsonString);
         }
 
         public async Task<LakesSurveyModel> GetLakeSurveyAsync(string lakeId)
@@ -39,13 +35,14 @@ namespace Services.Clients
             var uri = DnrEndpoints.GetLakesSurvey(lakeId);
             string lakeSurveyResult = "";
 
+            // TODO : Get this working. Implement wait in future
             for (var i = 0; i < 30; i++)
             {
                 try
                 {
                     var httpResponse = await httpClient.GetAsync(uri);
                     httpResponse.EnsureSuccessStatusCode();
-                    lakeSurveyResult = (await httpResponse.Content.ReadAsStringAsync()).Remove(0, 4);
+                    lakeSurveyResult = FormatReponse(await httpResponse.Content.ReadAsStringAsync());
                     break;
                 }
                 catch (AggregateException)
@@ -55,11 +52,17 @@ namespace Services.Clients
                 }
             }
 
-            lakeSurveyResult = Regex.Replace(lakeSurveyResult, @"\t|\n|\r", "");
-            lakeSurveyResult = lakeSurveyResult.Remove(lakeSurveyResult.Length - 1, 1);
             return JsonConvert.DeserializeObject<LakesSurveyModel>(lakeSurveyResult);
         }
 
+        private string FormatReponse(string reponse)
+        {
+            // Remove junk Foo
+            var formattedResponse = reponse.Remove(0, 4);
+            formattedResponse = Regex.Replace(formattedResponse, @"\t|\n|\r", "");
+            formattedResponse = Regex.Replace(formattedResponse, @";", "");
+            return formattedResponse.Remove(formattedResponse.Length - 1, 1);
+        }
 
     }
 }
