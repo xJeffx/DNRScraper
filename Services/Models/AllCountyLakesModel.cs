@@ -3,7 +3,7 @@
 namespace Services.Models
 {
     // This class represents all lakes in a county
-    public class AllCountyLakesModel
+    public class AllLakesPerCountyModel
     {
         public string status { get; set; }
 

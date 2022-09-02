@@ -5,11 +5,11 @@ using System.Text.RegularExpressions;
 
 namespace Services.Clients
 {
-    public class CGIBinClient : ICGIBinClient, IAsyncDisposable
+    public class CgiBinClient : ICgiBinClient, IAsyncDisposable
     {
-        private HttpClient httpClient;
+        private readonly HttpClient httpClient;
 
-        public CGIBinClient(HttpClient httpClient)
+        public CgiBinClient(HttpClient httpClient)
         {
             this.httpClient = httpClient;
         }
@@ -19,7 +19,6 @@ namespace Services.Clients
         public async Task<MNCountiesModel> GetCountyListAsync()
         {
             var countyPath = DnrEndpoints.GetCounties;
-            //var httpResponse = httpClient.GetAsync(countyPath).WaitAsync(new TimeSpan(0,0,60)).Result;
            
             var httpResponse = await httpClient.GetAsync(countyPath);
 

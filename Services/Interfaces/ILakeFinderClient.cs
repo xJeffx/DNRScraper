@@ -5,7 +5,7 @@ namespace Services.Interfaces
 {
     public interface ILakeFinderClient
     {
-        Task<AllCountyLakesModel> GetLakesAsync(string countyId);
+        Task<AllLakesPerCountyModel> GetLakesAsync(string countyId);
         Task<LakesSurveyModel> GetLakeSurveyAsync(string lakeId);
     }
 }

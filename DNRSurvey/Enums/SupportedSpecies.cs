@@ -2,7 +2,7 @@
 
 namespace DNRSurvey.Enums
 {
-    public enum SpeciesEnum
+    public enum SupportedSpecies
     {
         [Description("Smallmouth bass")]
         SMB,

@@ -6,96 +6,94 @@ namespace DNRSurvey.Utilities
 {
     public static class SurveyHelper
     {
-        private static Species ConvertToSpeciesLength(FishSurvey survey, SpeciesEnum species)
+
+        private static Species ConvertToSpeciesLength(FishSurvey survey, Enums.SupportedSpecies species)
         {
             //poor, just use a switch
-            var speciesDict = new Dictionary<SpeciesEnum, Species>
+            var speciesDict = new Dictionary<Enums.SupportedSpecies, Services.Models.Species>
             {
-                {SpeciesEnum.SMB, survey.lengths.SMB},
-                {SpeciesEnum.LMB, survey.lengths.LMB},
-                {SpeciesEnum.TRP, survey.lengths.TRP},
-                {SpeciesEnum.YEP, survey.lengths.YEP},
-                {SpeciesEnum.BLG, survey.lengths.BLG},
-                {SpeciesEnum.WAE, survey.lengths.WAE},
-                {SpeciesEnum.NOP, survey.lengths.NOP},
-                {SpeciesEnum.LGP, survey.lengths.LGP},
-                {SpeciesEnum.BUB, survey.lengths.BUB},
-                {SpeciesEnum.MMS, survey.lengths.MMS},
-                {SpeciesEnum.TLC, survey.lengths.TLC},
-                {SpeciesEnum.RKB, survey.lengths.RKB},
-                {SpeciesEnum.SPO, survey.lengths.SPO},
-                {SpeciesEnum.YEB, survey.lengths.YEB},
-                {SpeciesEnum.JND, survey.lengths.JND},
-                {SpeciesEnum.WTS, survey.lengths.WTS},
-                {SpeciesEnum.MUE, survey.lengths.MUE},
-                {SpeciesEnum.BLC, survey.lengths.BLC},
-                {SpeciesEnum.CAP, survey.lengths.CAP},
-                {SpeciesEnum.HSF, survey.lengths.HSF},
-                {SpeciesEnum.PMK, survey.lengths.PMK},
-                {SpeciesEnum.BOF, survey.lengths.BOF},
-                {SpeciesEnum.BRB, survey.lengths.BRB},
-                {SpeciesEnum.IOD, survey.lengths.IOD},
-                {SpeciesEnum.BKT, survey.lengths.BKT},
-                {SpeciesEnum.BNM, survey.lengths.BNM},
-                {SpeciesEnum.MTS, survey.lengths.MTS},
-                {SpeciesEnum.GOS, survey.lengths.GOS},
-                {SpeciesEnum.SHR, survey.lengths.SHR},
-                {SpeciesEnum.TPM, survey.lengths.TPM},
-                {SpeciesEnum.BLB, survey.lengths.BLB},
-                {SpeciesEnum.LND, survey.lengths.LND},
-                {SpeciesEnum.GSF, survey.lengths.GSF},
-                {SpeciesEnum.RBT, survey.lengths.RBT},
-                {SpeciesEnum.BNT, survey.lengths.BNT},
-                {SpeciesEnum.SPT, survey.lengths.SPT},
-                {SpeciesEnum.LAT, survey.lengths.LAT},
-                {SpeciesEnum.WHB, survey.lengths.WHB},
-                {SpeciesEnum.LTS, survey.lengths.LTS},
-                {SpeciesEnum.CCF, survey.lengths.CCF},
-                {SpeciesEnum.WHC, survey.lengths.WHC},
-                {SpeciesEnum.BIB, survey.lengths.BIB},
-                {SpeciesEnum.TMUE, survey.lengths.TMUE},
-                {SpeciesEnum.EMS,survey.lengths.EMS},
-                {SpeciesEnum.LNG,survey.lengths.LNG},
-                {SpeciesEnum.FCF,survey.lengths.FCF},
-                {SpeciesEnum.SAR,survey.lengths.SAR},
-                {SpeciesEnum.GIS,survey.lengths.GIS}
+                { Enums.SupportedSpecies.SMB, survey.lengths.SMB},
+                { Enums.SupportedSpecies.LMB, survey.lengths.LMB},
+                { Enums.SupportedSpecies.TRP, survey.lengths.TRP},
+                { Enums.SupportedSpecies.YEP, survey.lengths.YEP},
+                { Enums.SupportedSpecies.BLG, survey.lengths.BLG},
+                { Enums.SupportedSpecies.WAE, survey.lengths.WAE},
+                { Enums.SupportedSpecies.NOP, survey.lengths.NOP},
+                { Enums.SupportedSpecies.LGP, survey.lengths.LGP},
+                { Enums.SupportedSpecies.BUB, survey.lengths.BUB},
+                { Enums.SupportedSpecies.MMS, survey.lengths.MMS},
+                { Enums.SupportedSpecies.TLC, survey.lengths.TLC},
+                { Enums.SupportedSpecies.RKB, survey.lengths.RKB},
+                { Enums.SupportedSpecies.SPO, survey.lengths.SPO},
+                { Enums.SupportedSpecies.YEB, survey.lengths.YEB},
+                { Enums.SupportedSpecies.JND, survey.lengths.JND},
+                { Enums.SupportedSpecies.WTS, survey.lengths.WTS},
+                { Enums.SupportedSpecies.MUE, survey.lengths.MUE},
+                { Enums.SupportedSpecies.BLC, survey.lengths.BLC},
+                { Enums.SupportedSpecies.CAP, survey.lengths.CAP},
+                { Enums.SupportedSpecies.HSF, survey.lengths.HSF},
+                { Enums.SupportedSpecies.PMK, survey.lengths.PMK},
+                { Enums.SupportedSpecies.BOF, survey.lengths.BOF},
+                { Enums.SupportedSpecies.BRB, survey.lengths.BRB},
+                { Enums.SupportedSpecies.IOD, survey.lengths.IOD},
+                { Enums.SupportedSpecies.BKT, survey.lengths.BKT},
+                { Enums.SupportedSpecies.BNM, survey.lengths.BNM},
+                { Enums.SupportedSpecies.MTS, survey.lengths.MTS},
+                { Enums.SupportedSpecies.GOS, survey.lengths.GOS},
+                { Enums.SupportedSpecies.SHR, survey.lengths.SHR},
+                { Enums.SupportedSpecies.TPM, survey.lengths.TPM},
+                { Enums.SupportedSpecies.BLB, survey.lengths.BLB},
+                { Enums.SupportedSpecies.LND, survey.lengths.LND},
+                { Enums.SupportedSpecies.GSF, survey.lengths.GSF},
+                { Enums.SupportedSpecies.RBT, survey.lengths.RBT},
+                { Enums.SupportedSpecies.BNT, survey.lengths.BNT},
+                { Enums.SupportedSpecies.SPT, survey.lengths.SPT},
+                { Enums.SupportedSpecies.LAT, survey.lengths.LAT},
+                { Enums.SupportedSpecies.WHB, survey.lengths.WHB},
+                { Enums.SupportedSpecies.LTS, survey.lengths.LTS},
+                { Enums.SupportedSpecies.CCF, survey.lengths.CCF},
+                { Enums.SupportedSpecies.WHC, survey.lengths.WHC},
+                { Enums.SupportedSpecies.BIB, survey.lengths.BIB},
+                { Enums.SupportedSpecies.TMUE, survey.lengths.TMUE},
+                { Enums.SupportedSpecies.EMS, survey.lengths.EMS},
+                { Enums.SupportedSpecies.LNG, survey.lengths.LNG},
+                { Enums.SupportedSpecies.FCF, survey.lengths.FCF},
+                { Enums.SupportedSpecies.SAR, survey.lengths.SAR},
+                { Enums.SupportedSpecies.GIS, survey.lengths.GIS}
             };
 
             speciesDict.TryGetValue(species, out Species speciesLength);
             return speciesLength;
         } 
 
-        public static Species GetSpeciesData(FishSurvey survey, SpeciesEnum speciesEnum)
+        public static Services.Models.Species GetSpeciesData(FishSurvey survey, Enums.SupportedSpecies speciesEnum)
         {
             // Get the species model from the speciesEnum value
             var speciesLength = ConvertToSpeciesLength(survey, speciesEnum);
 
             if(speciesLength == null)
             {
-                throw new Exception($"Found Survey but could not find length for {speciesEnum.ToString()}");
+                throw new ArgumentException($"Found Survey but could not find length for {speciesEnum}");
             }
 
             return speciesLength;
         }
 
-        public static FishSurvey GetLastestSurveyWithSpeciesLengthData(FishSurvey[] surveys, SpeciesEnum speciesEnum)
+        public static FishSurvey GetLastestSurveyWithSpeciesLengthData(FishSurvey[] surveys, Enums.SupportedSpecies speciesEnum)
         {
             // Get the latest survey so we can see the latest information
             FishSurvey latestSurvey = null;
-            if (surveys != null && surveys.Count() > 0)
+            if (surveys?.Length > 0)
             {           
                 foreach (var currentSurvey in surveys)
                 {
                     // Check if there are any lengths for the species
-                    if(ConvertToSpeciesLength(currentSurvey, speciesEnum) == null)
+                    if (ConvertToSpeciesLength(currentSurvey, speciesEnum) == null)
                     {
                         continue;
                     }
 
-                    if(latestSurvey == null)
-                    {
-                        latestSurvey = currentSurvey;
-                    }
+                    latestSurvey ??= currentSurvey;
 
                     var oldSurveyDate = DateTime.Parse(latestSurvey.surveyDate);
                     var currentSurveyDate = DateTime.Parse(currentSurvey.surveyDate);
@@ -105,19 +103,17 @@ namespace DNRSurvey.Utilities
                         latestSurvey = currentSurvey;
                     }
                 }
-                //return surveys.LastOrDefault(n => n.lengths != null && ConvertToSpeciesLength(n, speciesEnum) != null);
-
             }
 
             return latestSurvey;
         }
 
-        /**
-         * Get all the lengths available for a fish species in a survey
-         * 
-         *
-         **/
-        public static Dictionary<int, int> GetSpeciesLengths(Species fishLength)
+        /// <summary>
+        /// Get all the lengths available for a fish species in a survey
+        /// </summary>
+        /// <param name="fishLength">The length data</param>
+        /// <returns></returns>
+        public static Dictionary<int, int> GetSpeciesLengths(Services.Models.Species fishLength)
         {    
             //Key is the size in inches, value is the total number of fish of that size
             var lengthSizeToTotalFish = new Dictionary<int, int>();
@@ -131,7 +127,7 @@ namespace DNRSurvey.Utilities
                     if (lengthSizeToTotalFish.ContainsKey(size))
                     {
                         lengthSizeToTotalFish.TryGetValue(size, out int fishCount);
-                        fishCount = fishCount + length[1];
+                        fishCount += length[1];
                         lengthSizeToTotalFish[size] = fishCount;
 
                     }

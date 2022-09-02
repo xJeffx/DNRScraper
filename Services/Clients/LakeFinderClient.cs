@@ -16,7 +16,7 @@ namespace Services.Clients
 
         public ValueTask DisposeAsync() => default;
 
-        public async Task<AllCountyLakesModel> GetLakesAsync(string countyId)
+        public async Task<AllLakesPerCountyModel> GetLakesAsync(string countyId)
         {            
             var uri = DnrEndpoints.GetLakesWithinACounty(countyId);
             var httpResponse = await httpClient.GetAsync(uri);
@@ -30,7 +30,7 @@ namespace Services.Clients
 
             jsonString = jsonString.Remove(jsonString.Length - 1, 1);
 
-            var countyLakes = JsonConvert.DeserializeObject<AllCountyLakesModel>(jsonString);
+            var countyLakes = JsonConvert.DeserializeObject<AllLakesPerCountyModel>(jsonString);
             return countyLakes;
         }
 
